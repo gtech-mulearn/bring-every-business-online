@@ -136,6 +136,87 @@ const Home = () => {
             </div>
           </div>
         </div>
+
+        <div className={styles.third_view_container}>
+          <div className={styles.third_view}>
+            <div className={styles.tv_texts}>
+              <p className={styles.tvheader}>
+                Minimum <span>Requirements</span>
+              </p>
+              <p className={styles.tvtagline}>
+                Please make sure that you upload the shop's consent letter in
+                the PR comments. It could even be a screenshot of a consent mail
+                from the store.Please try to include as much info you can
+                collect about the shop in the website that you are building.
+              </p>
+            </div>
+
+            <div className={styles.tvpoints}>
+              <ol>
+                <li className={styles.listitem}>
+                  The webpage should have images of the buisness
+                </li>
+                <li className={styles.listitem}>
+                  Basic Details such as location, working hours etc.. should be
+                  present.
+                </li>
+                <li className={styles.listitem}>
+                  Contact Details of the buissness should be added.
+                </li>
+                <li className={styles.listitem}>
+                  *Disclaimer - No limits on creativity. Feel free to exhibit
+                  your creative brilliance
+                </li>
+              </ol>
+            </div>
+          </div>
+        </div>
+
+        <div className={styles.fourth_view_container}>
+          <div className={styles.fourth_view}>
+            <div className={styles.frv_texts}>
+              <p className={styles.frv_heading}>
+                <span>We’ve got</span> your back !
+              </p>
+              <p className={styles.frv_text}>
+                In case you have any queries, you can always reach out to our
+                mentors on our Discord server. We’ve also set up Office hours to
+                help you clear all your doubts. If you’re new to Web Development
+                and Git, fear not coz we’ve set up some sessions to help you get
+                started.
+              </p>
+            </div>
+            <div className={styles.sv_points}>
+              <div className={styles.sv_point}>
+                <p className={styles.sv_image}>⌛</p>
+                <div className={styles.svp_heading}>Office Hours</div>
+                <div className={styles.svp_text}>
+                  There will Office Hours hosted by our mentors regularly to
+                  help you clear all your doubts and queries regarding the
+                  event.
+                </div>
+              </div>
+              <div className={styles.sv_point}>
+                <p className={styles.sv_image}>🖥</p>
+                <div className={styles.svp_heading}>Learning Session</div>
+                <div className={styles.svp_text}>
+                  Various learning bootcamps will be conducted during the span
+                  of this event to help you all get started with Web Development
+                  and how you can make a beautiful website.
+                </div>
+              </div>
+
+              <div className={styles.sv_point}>
+                <p className={styles.sv_image}>💯</p>
+                <div className={styles.svp_heading}>Karma Points</div>
+                <div className={styles.svp_text}>
+                  For each successful submission, gain Karma points and stand a
+                  chance to win Hacktoberfest goodies.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );

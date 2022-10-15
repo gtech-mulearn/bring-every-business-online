@@ -101,12 +101,13 @@ span {
   }
 
   .fv_image {
-    margin-top: 3rem;
+    
     object-fit: cover;
     object-position: center;
     height: fit-content;
     height: 30rem;
-    width: 100vw;
+    width: 99vw;
+    margin: 3rem auto;
   }
 
   .fv_heading {
@@ -270,5 +271,191 @@ span {
 
   .sv_point {
     width: 23rem;
+  }
+}
+
+/* Third View Styles */
+
+/* Third Section Styles */
+
+.third_view_container {
+  margin: 2rem;
+}
+
+.third_view {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1rem;
+}
+
+.tvheader {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 2.45rem;
+  color: #1f172e;
+  font-weight: 600;
+}
+
+.tvtagline {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
+
+.tvpoints {
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+.listitem {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  display: list-item;
+}
+
+@media only screen and (min-width: 1024px) {
+  .third_view_container {
+    max-width: 1300px;
+    margin: auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+
+  .listitem {
+    font-family: "Poppins", sans-serif;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    display: list-item;
+  }
+
+  .third_view {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+  }
+
+  .tv_texts {
+    width: 60%;
+  }
+
+  .tvtagline {
+    font-family: "Poppins", sans-serif;
+    text-align: left;
+    font-size: 1rem;
+    width: 60%;
+    margin-top: 0.5rem;
+  }
+
+  .tvheader {
+    font-family: "Raleway", sans-serif;
+    font-size: 2.25rem;
+    font-weight: 600;
+  }
+}
+
+@media only screen and (min-width: 1300px) {
+  .third_view {
+    margin: 0;
+  }
+}
+
+/* Foruth View Styles */
+
+.fourth_view_container {
+  margin: 2rem;
+  margin-top: 4rem;
+}
+
+.fourth_view {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1rem;
+}
+
+.frv_heading {
+  font-family: "Raleway", sans-serif;
+  font-size: 2.45rem;
+  color: #1f172e;
+  font-weight: 600;
+}
+
+.frv_text {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
+
+.sv_points {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.svp_heading {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.svp_text {
+  font-family: "Poppins", sans-serif;
+  font-size: 0.9rem;
+}
+
+.sv_image {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.sv_point {
+  text-align: center;
+  margin: 1rem 0rem;
+}
+
+@media only screen and (min-width: 1024px) {
+  .fourth_view_container {
+    max-width: 1300px;
+    margin: auto;
+    margin-top: 6rem;
+  }
+
+  .frv_text {
+    width: 60%;
+  }
+
+  .fourth_view {
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sv_points {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .sv_point {
+    text-align: center;
+    margin: 1rem;
+  }
+
+  .svp_heading {
+    font-family: "Raleway", sans-serif;
+    font-size: 1.75rem;
+    font-weight: 600;
+  }
+
+  .svp_text {
+    font-family: "Poppins", sans-serif;
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (min-width: 1300px) {
+  .fourth_view {
+    margin: 0rem;
   }
 }
