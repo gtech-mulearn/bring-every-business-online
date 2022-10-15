@@ -1,0 +1,100 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+nav {
+  margin: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+@media only screen and (min-width: 1024px) {
+  nav {
+    max-width: 1300px;
+    margin: auto;
+    margin-top: 2rem;
+  }
+}
+
+.joindiscord {
+  background-color: #f68128;
+  color: white;
+  padding: 0.75rem 1.25rem;
+  border-radius: 5px;
+  border: none;
+}
+
+.mulearn_img {
+  width: 6rem;
+  object-fit: contain;
+}
+
+/* First View Styles */
+
+.first_view {
+  margin: 2rem;
+  margin-top: 4rem;
+}
+
+.fv_texts {
+  text-align: center;
+}
+
+.fv_heading {
+  font-family: "Raleway", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+span {
+  color: #f68128;
+}
+
+.fv_tagline {
+  font-family: "Poppins", sans-serif;
+}
+
+.fv_image {
+  object-fit: cover;
+  object-position: 45%;
+  height: 20rem;
+  width: 100vw;
+}
+
+@media only screen and (min-width: 1000px) {
+  .first_view_container {
+    margin-top: 4rem;
+  }
+
+  .first_view {
+    max-width: 1300px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 3rem;
+  }
+
+  .fv_image {
+    margin-top: 2rem;
+    object-fit: cover;
+    object-position: center;
+    height: fit-content;
+    height: 30rem;
+    width: 100vw;
+  }
+
+  .fv_heading {
+    font-family: "Raleway", sans-serif;
+    font-size: 4rem;
+    font-weight: 600;
+  }
+
+  .fv_tagline {
+    font-family: "Poppins", sans-serif;
+    font-size: 1.1rem;
+    margin-top: 0.5rem;
+  }
+}
