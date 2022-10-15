@@ -162,7 +162,7 @@ const Home = () => {
                   present.
                 </li>
                 <li className={styles.listitem}>
-                  Contact Details of the buissness should be added.
+                  Contact Details of the buisness should be added.
                 </li>
                 <li className={styles.listitem}>
                   Disclaimer - No limits on creativity. Feel free to exhibit
