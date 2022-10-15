@@ -22,12 +22,18 @@ const Home = () => {
               <p className={styles.fv_heading}>
                 Bring <span>Every Buisness</span> Online.
               </p>
+              <p className={styles.quote}>
+                "Together let’s bring 30 million business online"
+              </p>
               <p className={styles.fv_tagline}>
                 Project Awesome aka Bring Every Buissness Onine is an Open
                 Source Initative to make an open source collection of webpages
                 for every business out there. To contribute to the project all
                 you have to do is build a website for a store or buiness online.
               </p>
+              <button class={styles.start_contributing}>
+                Start Contributing
+              </button>
             </div>
           </div>
           <img src="/assets/fvimg1.jpg" alt="" className={styles.fv_image} />
