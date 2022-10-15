@@ -101,7 +101,6 @@ span {
   }
 
   .fv_image {
-    
     object-fit: cover;
     object-position: center;
     height: fit-content;
@@ -432,9 +431,10 @@ span {
   }
 
   .sv_points {
-    margin-top: 2rem;
     display: flex;
     flex-direction: row;
+    margin: auto;
+    margin-top: 3rem;
   }
 
   .sv_point {

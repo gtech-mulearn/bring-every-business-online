@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../../Components/Footer/Footer";
 import styles from "./Home.module.css";
 
 const Home = () => {
@@ -164,7 +165,7 @@ const Home = () => {
                   Contact Details of the buissness should be added.
                 </li>
                 <li className={styles.listitem}>
-                  *Disclaimer - No limits on creativity. Feel free to exhibit
+                  Disclaimer - No limits on creativity. Feel free to exhibit
                   your creative brilliance
                 </li>
               </ol>
@@ -218,6 +219,7 @@ const Home = () => {
           </div>
         </div>
       </div>
+      <Footer />
     </>
   );
 };
