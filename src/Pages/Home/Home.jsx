@@ -27,10 +27,10 @@ const Home = () => {
                 "Together let’s bring 30 million business online"
               </p>
               <p className={styles.fv_tagline}>
-                Project Awesome aka Bring Every Buissness Onine is an Open
-                Source Initative to make an open source collection of webpages
-                for every business out there. To contribute to the project all
-                you have to do is build a website for a store or buiness online.
+                Awesome aka Bring Every Business Online is an Open Source
+                Initiative to make an open source collection of web-pages for
+                every business out there. To contribute to the project, all you
+                have to do is build a website for a store or business.
               </p>
               <button class={styles.start_contributing}>
                 Start Contributing
@@ -104,10 +104,10 @@ const Home = () => {
               <div className={styles.step}>
                 <p className={styles.step_heading}>Step 2</p>
                 <p className={styles.step_text}>
-                  There is folder inside the public folder named as India,
-                  inside which there is folder called kerala having sub-folders
-                  of each district. You can contribute to the disctrict in which
-                  the buisness belongs to.
+                  There is a folder inside the public folder named India, inside
+                  which there is a folder called Kerala, having sub-folders of
+                  each district. You can contribute to the district to which the
+                  business belongs to.
                 </p>
               </div>
               <div className={styles.step}>
@@ -121,17 +121,17 @@ const Home = () => {
               <div className={styles.step}>
                 <p className={styles.step_heading}>Step 4</p>
                 <p className={styles.step_text}>
-                  Once you have completed making the website. You can create a
-                  pull request mentioning the sufficient details and create a
-                  pull request.
+                  Once you have completed making the website, you can create a
+                  pull request mentioning sufficient details and create a pull
+                  request.
                 </p>
               </div>
               <div className={styles.step}>
                 <p className={styles.step_heading}>Step 5</p>
                 <p className={styles.step_text}>
                   Soon, our team will be quality checking the pull request and
-                  will be merging it with the parent repository. Which ensures
-                  and completes your participation.
+                  merging it with the parent repository, which ensures and
+                  completes your participation.
                 </p>
               </div>
             </div>
@@ -147,8 +147,8 @@ const Home = () => {
               <p className={styles.tvtagline}>
                 Please make sure that you upload the shop's consent letter in
                 the PR comments. It could even be a screenshot of a consent mail
-                from the store.Please try to include as much info you can
-                collect about the shop in the website that you are building.
+                from the store.Please try to include as much info as you can
+                collect about the shop on the website you are building.
               </p>
             </div>
 
