@@ -98,3 +98,152 @@ span {
     margin-top: 0.5rem;
   }
 }
+
+/* Second Section Styles */
+.second_view {
+  margin: 2rem;
+  margin-top: 4rem;
+}
+
+.sv_heading {
+  font-family: "Raleway", sans-serif;
+  font-size: 2.45rem;
+  color: #1f172e;
+  font-weight: 600;
+}
+
+.sv_tagline,
+.right_side {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
+
+@media only screen and (min-width: 1000px) {
+  .second_view_container {
+    margin-top: 6rem;
+  }
+
+  .sv_texts {
+    width: 45%;
+  }
+
+  .sv_heading {
+    width: 90%;
+    font-family: "Raleway", sans-serif;
+    font-size: 2.75rem;
+  }
+
+  .sv_tagline {
+    width: 85%;
+  }
+
+  .right_side {
+    width: 45%;
+  }
+
+  .second_view {
+    max-width: 1300px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 3rem;
+  }
+}
+
+/* Steps Styles */
+
+/* Steps Styles */
+
+.steps_view_container {
+  margin: 2rem;
+  margin-top: 4rem;
+}
+
+.steps_view {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1rem;
+}
+
+.stv_heading {
+  font-family: "Raleway", sans-serif;
+  font-size: 2.45rem;
+  color: #1f172e;
+  font-weight: 600;
+}
+
+.stv_tagline {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
+
+.step_heading {
+  color: #404040;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.step_text {
+  font-family: "Poppins", sans-serif;
+  margin-top: 0.25rem;
+}
+
+.link {
+  color: #1f172e;
+  text-decoration: underline;
+}
+
+.step {
+  margin: 1rem 0rem;
+  box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
+  -webkit-box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
+  padding: 30px 25px;
+  border-radius: 10px;
+}
+
+@media only screen and (min-width: 1024px) {
+  .steps_view_container {
+    max-width: 1300px;
+    margin: auto;
+    margin-top: 6rem;
+  }
+
+  .stv_tagline {
+    width: 50%;
+  }
+
+  .steps_view {
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .steps_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .step {
+    width: 20rem;
+    margin: 1.5rem;
+    margin-right: 3rem;
+    margin-left: 0;
+  }
+}
+
+@media only screen and (min-width: 1300px) {
+  .steps_view {
+    margin: 0;
+  }
+
+  .sv_point {
+    width: 23rem;
+  }
+}
