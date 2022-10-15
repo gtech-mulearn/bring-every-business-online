@@ -32,9 +32,15 @@ const Home = () => {
                 every business out there. To contribute to the project, all you
                 have to do is build a website for a store or business.
               </p>
-              <button class={styles.start_contributing}>
-                Start Contributing
-              </button>
+              <a
+                href="https://github.com/gtech-mulearn/bring-every-business-online"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button class={styles.start_contributing}>
+                  Start Contributing
+                </button>
+              </a>
             </div>
           </div>
           <img src="/assets/fvimg1.jpg" alt="" className={styles.fv_image} />
