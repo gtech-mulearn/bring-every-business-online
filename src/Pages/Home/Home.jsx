@@ -32,6 +32,17 @@ const Home = () => {
                 every business out there. To contribute to the project, all you
                 have to do is build a website for a store or business.
               </p>
+              <div className={styles.event_partners}>
+                <div className={styles.partners}>
+                  <p className={styles.event_partners_heading}>Supported By:</p>
+
+                  <img
+                    src="assets/supporter.jpg"
+                    alt=""
+                    className={styles.partner_image}
+                  />
+                </div>
+              </div>
               <a
                 href="https://github.com/gtech-mulearn/bring-every-business-online"
                 target="_blank"
