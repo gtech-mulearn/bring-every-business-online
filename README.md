@@ -1,3 +1,5 @@
+![Repo Banner](public/helpers/repo-banner.png)
+
 ## How to Contribute
 You can build a webpage for a local businees that you know, or you frequently visit. It could even be your favourite chayakkada(Tea Shop).
 
