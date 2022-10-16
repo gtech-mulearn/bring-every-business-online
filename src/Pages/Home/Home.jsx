@@ -21,7 +21,7 @@ const Home = () => {
           <div className={styles.first_view}>
             <div className={styles.fv_texts}>
               <p className={styles.fv_heading}>
-                Bring <span>Every Buisness</span> Online.
+                Bring <span>Every Business</span> Online.
               </p>
               <p className={styles.quote}>
                 "Together let’s bring 30 million business online"
@@ -99,7 +99,7 @@ const Home = () => {
               <p className={styles.stv_tagline}>
                 Below given is the step by step breakdown of how you can
                 contribute to the project and create an online presence for a
-                buisness nearby.
+                business nearby.
               </p>
             </div>
             <div className={styles.steps_container}>
@@ -131,7 +131,7 @@ const Home = () => {
                 <p className={styles.step_heading}>Step 3</p>
                 <p className={styles.step_text}>
                   Make sure that the website that you are making for the
-                  buisness satisfies all the basic requirements which are
+                  business satisfies all the basic requirements which are
                   specified below.
                 </p>
               </div>
@@ -172,14 +172,14 @@ const Home = () => {
             <div className={styles.tvpoints}>
               <ol>
                 <li className={styles.listitem}>
-                  The webpage should have images of the buisness
+                  The webpage should have images of the business
                 </li>
                 <li className={styles.listitem}>
                   Basic Details such as location, working hours etc.. should be
                   present.
                 </li>
                 <li className={styles.listitem}>
-                  Contact Details of the buisness should be added.
+                  Contact Details of the business should be added.
                 </li>
                 <li className={styles.listitem}>
                   Disclaimer - No limits on creativity. Feel free to exhibit
