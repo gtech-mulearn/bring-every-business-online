@@ -24,7 +24,7 @@ const Home = () => {
                 Bring <span>Every Business</span> Online.
               </p>
               <p className={styles.quote}>
-                "Together let’s bring 30 million business online"
+                "Together let’s bring 1 Lakh business online"
               </p>
               <p className={styles.fv_tagline}>
                 Awesome aka Bring Every Business Online is an Open Source
