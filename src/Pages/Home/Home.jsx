@@ -1,12 +1,17 @@
 import React from "react";
 import Footer from "../../Components/Footer/Footer";
 import styles from "./Home.module.css";
+import Navbar from "../../Components/Navbar/Navbar";
 
 const Home = () => {
   return (
     <>
+      {/* <Navbar /> */}
       <nav>
-        <img src="/assets/µLearn.png" alt="" class={styles.mulearn_img} />
+        <a href="http://mulearn.org">
+          <img src="/assets/µLearn.png" alt="" class={styles.mulearn_img} />
+        </a>
+
         <a
           href="http://discord.mulearn.org"
           target="_blank"
