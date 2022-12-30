@@ -115,7 +115,7 @@ const Home = () => {
                   using the link which is provided above.Once that is done you
                   can{" "}
                   <a
-                    href="https://github.com/gtech-mulearn/mulearn/"
+                    href="https://github.com/gtech-mulearn/bring-every-business-online/"
                     className={styles.link}
                   >
                     fork
