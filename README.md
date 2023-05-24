@@ -80,6 +80,7 @@ git switch -c add-ravi-tea-shop
     "name": "Aswin Asok", # Your name -> Not longer than 30 characters
     "githubUsername": "AswinAsok", # Your GitHub username
     "storeName": "Sample Store", # Name of the Store -> Not longer than 30 characters
+    "storeType": "General Store",
     "storeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condimentum finibus urna, sed ultricies magna.", # Description about the store
     "hostedLink": "https://mulearn.org", # Link to the site hosted via GitHub Pages.
     "storeImage": "/images/samplestore.jpg" # Name of your image added in the /images directory -> Image size not greater than 200KB
@@ -89,6 +90,7 @@ git switch -c add-ravi-tea-shop
 
 **NOTE:**
 
+> Currently we have listed 5 types of stores, namely: Supermarkets, Texitile Stores, Jewellery Stores, Medical Stores, General Stores
 > make sure to add your info at the end of the file, after the last user's data. Not in the middle or the top of the file so that we can test the data.
 > **Otherwise the PR will be closed!**
 

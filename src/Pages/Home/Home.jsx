@@ -46,6 +46,11 @@ const Home = () => {
                     alt=""
                     className={styles.partner_image}
                   />
+                  <img
+                    src="assets/pygrammers.png"
+                    alt=""
+                    className={styles.partner_image}
+                  />
                 </div>
               </div>
               <a

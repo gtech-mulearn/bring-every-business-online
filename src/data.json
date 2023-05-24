@@ -3,6 +3,7 @@
     "name": "Aswin Asok",
     "githubUsername": "AswinAsok",
     "storeName": "Sample Store",
+    "storeType": "General Store",
     "storeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condimentum finibus urna, sed ultricies magna.",
     "hostedLink": "https://mulearn.org",
     "storeImage": "/images/samplestore.jpg"
