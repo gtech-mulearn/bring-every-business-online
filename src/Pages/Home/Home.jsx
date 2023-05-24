@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "../../Components/Footer/Footer";
 import styles from "./Home.module.css";
-import Navbar from "../../Components/Navbar/Navbar";
+import data from "../../data.json";
 
 const Home = () => {
   return (
@@ -238,23 +238,38 @@ const Home = () => {
           </div>
           <div className={styles.ffv_cards_container}>
             <div className={styles.ffv_cards}>
-              <div className={styles.ffv_card}>
-                <img
-                  src="https://media.istockphoto.com/id/1157106624/photo/all-your-necessities-stored-in-one-place.jpg?s=612x612&w=0&k=20&c=fANV-CP9N_Dt5lVoKWiZdAch60-2IOeHEm_pnvgk348="
-                  alt=""
-                  className={styles.ffvc_image}
-                />
-                <p className={styles.ffvc_heading}>Sample Store</p>
-                <p className={styles.ffvc_description}>
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Omnis, fugit quam iste optio perferendis autem incidunt.
-                  Dolorum placeat eligendi nisi officiis eos exercitationem
-                  mollitia eaque? u
-                </p>
-
-                <p className={styles.ffvc_builtby}>Built By: AswinAsok</p>
-                <button className={styles.ffvc_button}>View Website</button>
-              </div>
+              {data &&
+                data.map((store, key) => (
+                  <div className={styles.ffv_card}>
+                    <img
+                      src={store.storeImage}
+                      alt=""
+                      className={styles.ffvc_image}
+                    />
+                    <p className={styles.ffvc_heading}>{store.storeName}</p>
+                    <p className={styles.ffvc_description}>
+                      {store.storeDescription}
+                    </p>
+                    <a
+                      href={`https://github.com/${store.githubUsername}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <p className={styles.ffvc_builtby}>
+                        Built By: {store.githubUsername}
+                      </p>
+                    </a>
+                    <a
+                      href={store.hostedLink}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <button className={styles.ffvc_button}>
+                        View Website
+                      </button>
+                    </a>
+                  </div>
+                ))}
             </div>
           </div>
         </div>
