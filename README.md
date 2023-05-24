@@ -82,7 +82,7 @@ git switch -c add-ravi-tea-shop
     "storeName": "Sample Store", # Name of the Store -> Not longer than 30 characters
     "storeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condimentum finibus urna, sed ultricies magna.", # Description about the store
     "hostedLink": "https://mulearn.org", # Link to the site hosted via GitHub Pages.
-    "storeImage": "image.png" # Name of your image added in the /images directory -> Image size not greater than 200KB
+    "storeImage": "/images/samplestore.jpg" # Name of your image added in the /images directory -> Image size not greater than 200KB
   }
 ]
 ```
