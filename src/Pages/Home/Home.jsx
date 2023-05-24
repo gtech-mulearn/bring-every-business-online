@@ -1,5 +1,6 @@
 import React from "react";
 import Footer from "../../Components/Footer/Footer";
+import Navbar from "../../Components/Navbar/Navbar";
 import styles from "./Home.module.css";
 import data from "../../data.json";
 
@@ -233,7 +234,7 @@ const Home = () => {
           <div className={styles.fifth_view}>
             <div className={styles.ffv_texts}>
               <p className={styles.ffv_heading}>
-                <span>The Buisnesses</span> Online
+                <span>The Businesses</span> Online
               </p>
               <p className={styles.ffv_text}>
                 Listed below are the websites which were built by the students
@@ -264,6 +265,9 @@ const Home = () => {
                         Built By: {store.githubUsername}
                       </p>
                     </a>
+                    <p className={styles.ffvc_builtby}>
+                      Store Type: {store.storeType}
+                    </p>
                     <a
                       href={store.hostedLink}
                       target="_blank"
@@ -271,6 +275,15 @@ const Home = () => {
                     >
                       <button className={styles.ffvc_button}>
                         View Website
+                      </button>
+                    </a>
+                    <a
+                      href={store.hostedLink}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <button className={styles.ffvc_button}>
+                        View Github
                       </button>
                     </a>
                   </div>

@@ -80,8 +80,9 @@ git switch -c add-ravi-tea-shop
     "name": "Aswin Asok", # Your name -> Not longer than 30 characters
     "githubUsername": "AswinAsok", # Your GitHub username
     "storeName": "Sample Store", # Name of the Store -> Not longer than 30 characters
-    "storeType": "General Store",
+    "storeType": "General Store", # From amongst the five categories Supermarkets, Texitile Stores, Jewellery Stores, Medical Stores, General Stores select one.
     "storeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condimentum finibus urna, sed ultricies magna.", # Description about the store
+     "githubLink": "codeline", #Link to you github repository
     "hostedLink": "https://mulearn.org", # Link to the site hosted via GitHub Pages.
     "storeImage": "/images/samplestore.jpg" # Name of your image added in the /images directory -> Image size not greater than 200KB
   }
