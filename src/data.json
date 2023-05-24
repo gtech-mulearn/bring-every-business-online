@@ -8,5 +8,15 @@
     "hostedLink": "https://mulearn.org",
     "githubLink": "codeline",
     "storeImage": "/images/samplestore.jpg"
+  },
+   {
+    "name": "Shaheen Hyder",
+    "githubUsername": "AswinAsok",
+    "storeName": "Ravi's Tea Shop",
+    "storeType": "General Store",
+    "storeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condimentum finibus urna, sed ultricies magna.",
+    "hostedLink": "https://github.com/gtech-mulearn",
+    "githubLink": "https://github.com/AswinAsok/test",
+    "storeImage": "/images/samplestore.jpg"
   }
 ]
