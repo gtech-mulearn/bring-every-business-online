@@ -13,12 +13,12 @@ const Home = () => {
         </a>
 
         <a
-          href="http://discord.mulearn.org"
+          href="https://app.mulearn.org/register"
           target="_blank"
           rel="noopener noreferrer"
         >
           {" "}
-          <button class={styles.joindiscord}>Join Discord</button>
+          <button class={styles.joindiscord}>Join µLearn</button>
         </a>
       </nav>
       <div className={styles.main_view_container}>
@@ -80,8 +80,8 @@ const Home = () => {
               </p>
             </div>
             <div className={styles.right_side}>
-              This Hacktoberfest, join us as we create an open source collection
-              of Web pages for every business out there.
+              Join us as we create an open source collection of Web pages for
+              every business out there.
               <br />
               <br />
               Contributing to this project is as simple as it gets. All you have
@@ -111,45 +111,29 @@ const Home = () => {
               <div className={styles.step}>
                 <p className={styles.step_heading}>Step 1</p>
                 <p className={styles.step_text}>
-                  Before starting you would have to signup for hacktoberfest
-                  using the link which is provided above.Once that is done you
-                  can{" "}
-                  <a
-                    href="https://github.com/gtech-mulearn/bring-every-business-online/"
-                    className={styles.link}
-                  >
-                    fork
-                  </a>{" "}
-                  the repository from github.
+                  For starting out on this project, you will collect all the
+                  relevant information which are required for building a website
+                  for a business. such as images, location, working hours,
+                  contact details etc..
                 </p>
               </div>
               <div className={styles.step}>
                 <p className={styles.step_heading}>Step 2</p>
                 <p className={styles.step_text}>
-                  There is a folder inside the public folder named India, inside
-                  which there is a folder called Kerala, having sub-folders of
-                  each district. You can contribute to the district to which the
-                  business belongs to.
+                  Using the information you have just collected create a simple
+                  website using HTML, CSS and host them via Github Pages.
                 </p>
               </div>
               <div className={styles.step}>
                 <p className={styles.step_heading}>Step 3</p>
                 <p className={styles.step_text}>
-                  Make sure that the website that you are making for the
-                  business satisfies all the basic requirements which are
-                  specified below.
+                  Once you have completed making the website and hosted it, you
+                  can create a pull request adding your website information in
+                  the JSON File along with hosted link.
                 </p>
               </div>
               <div className={styles.step}>
                 <p className={styles.step_heading}>Step 4</p>
-                <p className={styles.step_text}>
-                  Once you have completed making the website, you can create a
-                  pull request mentioning sufficient details and create a pull
-                  request.
-                </p>
-              </div>
-              <div className={styles.step}>
-                <p className={styles.step_heading}>Step 5</p>
                 <p className={styles.step_text}>
                   Soon, our team will be quality checking the pull request and
                   merging it with the parent repository, which ensures and
@@ -233,9 +217,43 @@ const Home = () => {
                 <p className={styles.sv_image}>💯</p>
                 <div className={styles.svp_heading}>Karma Points</div>
                 <div className={styles.svp_text}>
-                  For each successful submission, gain Karma points and stand a
-                  chance to win Hacktoberfest goodies.
+                  For each successful submission, gain Karma points.
                 </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className={styles.fifth_view_container}>
+          <div className={styles.fifth_view}>
+            <div className={styles.ffv_texts}>
+              <p className={styles.ffv_heading}>
+                <span>The Buisnesses</span> Online
+              </p>
+              <p className={styles.ffv_text}>
+                Listed below are the websites which were built by the students
+                from across the state. Start building now to get yours listed.
+              </p>
+            </div>
+          </div>
+          <div className={styles.ffv_cards_container}>
+            <div className={styles.ffv_cards}>
+              <div className={styles.ffv_card}>
+                <img
+                  src="https://media.istockphoto.com/id/1157106624/photo/all-your-necessities-stored-in-one-place.jpg?s=612x612&w=0&k=20&c=fANV-CP9N_Dt5lVoKWiZdAch60-2IOeHEm_pnvgk348="
+                  alt=""
+                  className={styles.ffvc_image}
+                />
+                <p className={styles.ffvc_heading}>Sample Store</p>
+                <p className={styles.ffvc_description}>
+                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                  Omnis, fugit quam iste optio perferendis autem incidunt.
+                  Dolorum placeat eligendi nisi officiis eos exercitationem
+                  mollitia eaque? u
+                </p>
+
+                <p className={styles.ffvc_builtby}>Built By: AswinAsok</p>
+                <button className={styles.ffvc_button}>View Website</button>
               </div>
             </div>
           </div>

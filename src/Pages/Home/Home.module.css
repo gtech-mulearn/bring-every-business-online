@@ -480,3 +480,122 @@ span {
     margin: 0rem;
   }
 }
+
+/* Fifth View */
+
+.fifth_view_container {
+  margin: 2rem;
+  margin-top: 4rem;
+}
+
+.fifth_view {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1rem;
+}
+
+.ffv_heading {
+  font-family: "Raleway", sans-serif;
+  font-size: 2.45rem;
+  color: #1f172e;
+  font-weight: 600;
+}
+
+.ffv_text {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  max-width: 30rem;
+  margin-top: 0.5rem;
+}
+
+@media only screen and (min-width: 1024px) {
+  .fifth_view_container {
+    max-width: 1300px;
+    margin: auto;
+    margin-top: 6rem;
+  }
+
+  .ffv_text {
+    width: 60%;
+  }
+
+  .fifth_view {
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .svp_heading {
+    font-family: "Raleway", sans-serif;
+    font-size: 1.75rem;
+    font-weight: 600;
+  }
+
+  .svp_text {
+    font-family: "Poppins", sans-serif;
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (min-width: 1300px) {
+  .fifth_view {
+    margin: 0rem;
+  }
+}
+
+.ffv_cards_container {
+  margin: 2rem;
+}
+
+.ffv_cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.ffv_card {
+  box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
+  -webkit-box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
+  padding: 30px 25px;
+  border-radius: 10px;
+  max-width: 20rem;
+}
+
+.ffvc_image {
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+}
+
+.ffvc_heading {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.75rem;
+  color: #1f172e;
+  font-weight: 600;
+  margin-top: 1rem;
+}
+
+.ffvc_description {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+.ffvc_builtby {
+  font-family: "Poppins", sans-serif;
+  font-size: 0.9rem;
+  margin-top: 1rem;
+}
+
+.ffvc_button {
+  background-color: #f68128;
+  color: white;
+  margin-top: 1rem;
+  padding: 0.75rem 1.25rem;
+  border-radius: 5px;
+  border: none;
+  font-family: "Poppins", sans-serif;
+}
