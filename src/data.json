@@ -18,5 +18,15 @@
     "hostedLink": "https://github.com/gtech-mulearn",
     "githubLink": "https://github.com/AswinAsok/test",
     "storeImage": "/images/samplestore.jpg"
+  },
+  {
+    "name":"Megha Anil",
+    "githubUsername": "Meghaanil",
+    "storeName":"Megha Store",
+    "storeType":"Food Store",
+    "storeDescription":"Savor the Flavors: Your Culinary Haven for Delightful Delicacies,Discover a World of Delectable Delights",
+    "hostedLink":"https://meghaanil.github.io/bring-every-business-online/",
+    "githubLink":"https://github.com/Meghaanil/bring-every-business-online",
+    "storeImage":"/images/vibe.jpg"
   }
 ]
