@@ -18,5 +18,15 @@
     "hostedLink": "https://github.com/gtech-mulearn",
     "githubLink": "https://github.com/AswinAsok/test",
     "storeImage": "/images/samplestore.jpg"
-  }
+  },
+ {
+    "name": "Bibin Vincent",
+    "githubUsername": "BibinVincent55",
+    "storeName": "Fruit Shop",
+    "storeType": "Fruit Store",
+    "storeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condimentum finibus urna, sed ultricies magna.",
+    "hostedLink": "https://github.com/gtech-mulearn",
+    "githubLink": "https://github.com/AswinAsok/test",
+    "storeImage": "/images/samplestore.jpg"
+  } 
 ]
