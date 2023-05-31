@@ -1,22 +1,12 @@
 [
-  {
-    "name": "Aswin Asok",
-    "githubUsername": "AswinAsok",
-    "storeName": "Aswin Store",
-    "storeType": "General Store",
-    "storeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condimentum finibus urna, sed ultricies magna.",
-    "hostedLink": "https://mulearn.org",
-    "githubLink": "codeline",
-    "storeImage": "/images/samplestore.jpg"
-  },
    {
-    "name": "Shaheen Hyder",
-    "githubUsername": "AswinAsok",
-    "storeName": "Ravi's Tea Shop",
-    "storeType": "General Store",
-    "storeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condimentum finibus urna, sed ultricies magna.",
-    "hostedLink": "https://github.com/gtech-mulearn",
-    "githubLink": "https://github.com/AswinAsok/test",
-    "storeImage": "/images/samplestore.jpg"
+    "name": "Asin Sayed Ali",
+    "githubUsername": "Asinsayedali",
+    "storeName": "Car Plaza",
+    "storeType": "Car Accessories",
+    "storeDescription": "Sell car accessories",
+    "hostedLink": "https://asinsayedali.github.io/CarPlaza/",
+    "githubLink": "https://github.com/Asinsayedali/CarPlaza",
+    "storeImage": "/images/Car Plaza.jpg"
   }
 ]
