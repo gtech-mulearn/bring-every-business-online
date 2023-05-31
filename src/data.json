@@ -18,5 +18,15 @@
     "hostedLink": "https://github.com/gtech-mulearn",
     "githubLink": "https://github.com/AswinAsok/test",
     "storeImage": "/images/samplestore.jpg"
+  },
+   {
+    "name": "Asin Sayed Ali",
+    "githubUsername": "Asinsayedali",
+    "storeName": "Car Plaza",
+    "storeType": "Car Accessories",
+    "storeDescription": "Sell car accessories",
+    "hostedLink": "https://asinsayedali.github.io/CarPlaza/",
+    "githubLink": "https://github.com/Asinsayedali/CarPlaza",
+    "storeImage": "/images/Car Plaza.jpg"
   }
 ]
