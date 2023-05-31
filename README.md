@@ -34,7 +34,7 @@ Now clone the forked repository to your machine:
 - Using HTTPS
 
 ```sh
-git clone "https://GitHub.com/<your-username>/bring-every-business-online.git"
+git clone "https://gitHub.com/<your-username>/bring-every-business-online.git"
 ```
 
 - Using SSH
