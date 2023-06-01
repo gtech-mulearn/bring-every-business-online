@@ -21,10 +21,11 @@
   },
  {
     "name": "Bibin Vincent",
-    "githubUsername": "BibinVincent",
+    "githubUsername": "BibinVincent55",
     "storeName": "Binu's Fruit Shop",
     "storeType": "Fruit Store",
     "storeDescription": "We sell fruits online and deliver your favourite fruits to your doorsteps. After living up to the expectations of our customers all across Pathanamthitta City and launching soon at Bengaluru and Chennai. we have launched our e-commerce store to easily order fruits from the comfort of your home; to know whether your area is deliverable please contact us now or visit Contact",
+    "hostedLink": "https://bibinvincent55.github.io/fruit-shop/",
     "githubLink": "https://github.com/BibinVincent55/fruit-shop",
     "storeImage": "/images/home-bg.jpg"
   } 
