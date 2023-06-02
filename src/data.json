@@ -18,5 +18,15 @@
     "hostedLink": "https://asinsayedali.github.io/CarPlaza/",
     "githubLink": "https://github.com/Asinsayedali/CarPlaza",
     "storeImage": "/images/Car Plaza.jpg"
-  }
+  },
+  {
+    "name": "Anjali Rajendran",
+    "githubUsername": "AnjaliRaj015",
+    "storeName": "Cake By Honey",
+    "storeType": "Bake Shop",
+    "storeDescription": "Cake by honey offers classic treats made daily by in-house bakers, using the freshest & finest ingredients, with excellent customer service and at the best price.",
+    "hostedLink": "",
+    "githubLink": "",
+    "storeImage": ""
+   },
 ]
