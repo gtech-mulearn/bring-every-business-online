@@ -25,8 +25,8 @@
     "storeName": "Cake By Honey",
     "storeType": "Bake Shop",
     "storeDescription": "Cake by honey offers classic treats made daily by in-house bakers, using the freshest & finest ingredients, with excellent customer service and at the best price.",
-    "hostedLink": "",
-    "githubLink": "",
+    "hostedLink": "https://cakebyhoney.netlify.app/",
+    "githubLink": "https://github.com/AnjaliRaj015/cakebyhoney",
     "storeImage": ""
    },
 ]
