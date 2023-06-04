@@ -18,5 +18,15 @@
     "hostedLink": "https://asinsayedali.github.io/CarPlaza/",
     "githubLink": "https://github.com/Asinsayedali/CarPlaza",
     "storeImage": "/images/Car Plaza.jpg"
+  },
+  {
+    "name": "H Athulkrishnan",
+    "githubUsername": "athul-2003",
+    "storeName": "JR MEDICARE",
+    "storeType": "MEDICAL DISPOSABLES",
+    "storeDescription": "JR Medicare provides top-notch products that contribute to accurate diagnostics and improved patient care.",
+    "hostedLink": "https://athul-2003.github.io/JR-Medicare/",
+    "githubLink": "https://github.com/athul-2003/JR-Medicare",
+    "storeImage": "/images/front.JPG"
   }
 ]
