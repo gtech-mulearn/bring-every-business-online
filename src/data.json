@@ -28,5 +28,15 @@
     "hostedLink": "https://athul-2003.github.io/JR-Medicare/",
     "githubLink": "https://github.com/athul-2003/JR-Medicare",
     "storeImage": "/images/front.JPG"
+  },
+  {
+    "name":"Megha Anil",
+    "githubUsername": "Meghaanil",
+    "storeName":"Vibe Food Store",
+    "storeType":"Food Stuffs",
+    "storeDescription":"Savor the Flavors: Your Culinary Haven for Delightful Delicacies,Discover a World of Delectable Delights",
+    "hostedLink":"https://meghaanil.github.io/VibeFoodStore/",
+    "githubLink":"https://github.com/Meghaanil/VibeFoodStore",
+    "storeImage":"/images/vibe.jpg"
   }
 ]
