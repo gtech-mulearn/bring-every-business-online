@@ -30,6 +30,16 @@
     "storeImage": "/images/front.JPG"
   },
   {
+    "name": "Aravind S",
+    "githubUsername": "aravinds-arv",
+    "storeName": "Social Kitchen",
+    "storeType": "Restaurant",
+    "storeDescription": "Social Kitchen is Palakkad's favourite vegetarian restaurant where one can find the best choice of wide varieties of vegetarian cuisine.",
+    "hostedLink": "https://arv.codes/Social-Kitchen/",
+    "githubLink": "https://github.com/aravinds-arv/Social-Kitchen/",
+    "storeImage": "/images/social-kitchen.jpeg"
+  },
+  {
     "name":"Megha Anil",
     "githubUsername": "Meghaanil",
     "storeName":"Vibe Food Store",
