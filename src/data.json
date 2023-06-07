@@ -38,5 +38,15 @@
     "hostedLink": "https://arv.codes/Social-Kitchen/",
     "githubLink": "https://github.com/aravinds-arv/Social-Kitchen/",
     "storeImage": "/images/social-kitchen.jpeg"
+  },
+  {
+    "name":"Megha Anil",
+    "githubUsername": "Meghaanil",
+    "storeName":"Vibe Food Store",
+    "storeType":"Food Stuffs",
+    "storeDescription":"Savor the Flavors: Your Culinary Haven for Delightful Delicacies,Discover a World of Delectable Delights",
+    "hostedLink":"https://meghaanil.github.io/VibeFoodStore/",
+    "githubLink":"https://github.com/Meghaanil/VibeFoodStore",
+    "storeImage":"/images/vibe.jpg"
   }
 ]
