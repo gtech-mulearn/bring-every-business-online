@@ -8,8 +8,8 @@
     "hostedLink": "https://minnale.netlify.app/",
     "githubLink": "https://github.com/bijomathewjose/minnale",
     "storeImage": "/images/minnale-handmade-paper-craft-products.png"
-   },
-   {
+  },
+  {
     "name": "Asin Sayed Ali",
     "githubUsername": "Asinsayedali",
     "storeName": "Car Plaza",
@@ -39,6 +39,7 @@
     "githubLink": "https://github.com/nsk-2001/DevTask6.git",
     "storeImage": "/images/shop2.jpg"
   },
+  {
     "name": "Aravind S",
     "githubUsername": "aravinds-arv",
     "storeName": "Social Kitchen",
@@ -49,14 +50,24 @@
     "storeImage": "/images/social-kitchen.jpeg"
   },
   {
-    "name":"Megha Anil",
+    "name": "Megha Anil",
     "githubUsername": "Meghaanil",
-    "storeName":"Vibe Food Store",
-    "storeType":"Food Stuffs",
-    "storeDescription":"Savor the Flavors: Your Culinary Haven for Delightful Delicacies,Discover a World of Delectable Delights",
-    "hostedLink":"https://meghaanil.github.io/VibeFoodStore/",
-    "githubLink":"https://github.com/Meghaanil/VibeFoodStore",
-    "storeImage":"/images/vibe.jpg"
+    "storeName": "Vibe Food Store",
+    "storeType": "Food Stuffs",
+    "storeDescription": "Savor the Flavors: Your Culinary Haven for Delightful Delicacies,Discover a World of Delectable Delights",
+    "hostedLink": "https://meghaanil.github.io/VibeFoodStore/",
+    "githubLink": "https://github.com/Meghaanil/VibeFoodStore",
+    "storeImage": "/images/vibe.jpg"
+  },
+  {
+    "name": "Ishan Velle",
+    "githubUsername": "foss2cyber",
+    "storeName": "Prateek Medicos",
+    "storeType": "Medical Store",
+    "storeDescription": "Prateek Medicos - A house of medicines, cosmetics, and surgical goods. A local pharmacy dedicated to providing quality healthcare products and services to our community.",
+    "githubLink": "https://github.com/foss2cyber/prateek-medicos",
+    "hostedLink": "https://foss2cyber.github.io/prateek-medicos/",
+    "storeImage": "/images/shop_main.jpg"
   },
   {
     "name": "Alan Reji",
