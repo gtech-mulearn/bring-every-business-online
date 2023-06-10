@@ -48,5 +48,15 @@
     "hostedLink":"https://meghaanil.github.io/VibeFoodStore/",
     "githubLink":"https://github.com/Meghaanil/VibeFoodStore",
     "storeImage":"/images/vibe.jpg"
-  }
+  },
+   {
+    "name": "Alan Reji",
+    "githubUsername": "alan200505",
+    "storeName": "Zee Pets",
+    "storeType": "Pet Shop",
+    "storeDescription": "Zee Pets, the ultimate destination for all your furry, feathery, and scaly companions, offering a wide array of adorable animals, top-quality pet supplies, and expert guidance to help you find the perfect addition to your family",
+    "hostedLink": "https://alan200505.github.io/zeepets/",
+    "githubLink": "https://github.com/alan200505/zeepets",
+    "storeImage": "/images/zeepets.jpg"
+   },
 ]
