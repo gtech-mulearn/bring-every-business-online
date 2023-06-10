@@ -30,6 +30,15 @@
     "storeImage": "/images/front.JPG"
   },
   {
+    "name": "S Nithin",
+    "githubUsername": "nsk-2001",
+    "storeName": "DEVU ELECTRICALS",
+    "storeType": "ELECTRICAL AND HARDWARE SHOP",
+    "storeDescription": "It is a Electrical,Plumbing and Hardware shop situated near bhagavathipadi.Expert advice and guidance are provided by the staffs to the customers ",
+    "hostedLink": "https://nsk-2001.github.io/DevTask6/",
+    "githubLink": "https://github.com/nsk-2001/DevTask6.git",
+    "storeImage": "/images/shop2.jpg"
+  },
     "name": "Aravind S",
     "githubUsername": "aravinds-arv",
     "storeName": "Social Kitchen",
@@ -58,5 +67,25 @@
     "githubLink": "https://github.com/foss2cyber/prateek-medicos",
     "hostedLink": "https://foss2cyber.github.io/prateek-medicos/",
     "storeImage": "/images/shop_main.jpg"
+  },
+  {
+    "name": "Alan Reji",
+    "githubUsername": "alan200505",
+    "storeName": "Zee Pets",
+    "storeType": "Pet Shop",
+    "storeDescription": "Zee Pets, the ultimate destination for all your furry, feathery, and scaly companions, offering a wide array of adorable animals, top-quality pet supplies, and expert guidance to help you find the perfect addition to your family",
+    "hostedLink": "https://alan200505.github.io/zeepets/",
+    "githubLink": "https://github.com/alan200505/zeepets",
+    "storeImage": "/images/zeepets.jpg"
+   },  
+   {
+    "name": "S Nithin",
+    "githubUsername": "nsk-2001",
+    "storeName": "DEVU ELECTRICALS",
+    "storeType": "ELECTRICAL AND HARDWARE SHOP",
+    "storeDescription": "It is a Electrical,Plumbing and Hardware shop situated near bhagavathipadi.Expert advice and guidance are provided by the staffs to the customers ",
+    "hostedLink": "https://nsk-2001.github.io/DevTask6/",
+    "githubLink": "https://github.com/nsk-2001/DevTask6.git",
+    "storeImage": "/images/shop2.jpg"
   }
 ]
