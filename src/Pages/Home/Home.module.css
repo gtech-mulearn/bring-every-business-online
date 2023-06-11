@@ -58,6 +58,7 @@ nav {
   padding: 0.75rem 1.25rem;
   border-radius: 5px;
   border: none;
+  cursor: pointer;
 }
 
 .fv_heading {
@@ -599,4 +600,5 @@ span {
   border-radius: 5px;
   border: none;
   font-family: "Poppins", sans-serif;
+  cursor: pointer;
 }
