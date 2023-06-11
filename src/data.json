@@ -80,6 +80,16 @@
     "storeImage": "/images/zeepets.jpg"
    },
    {
+    "name": "Shijo P Binoy",
+    "githubUsername": "Shijo-P-Binoy",
+    "storeName": "Dreams Coolbar and Coffee House",
+    "storeType": "Coffee Shop",
+    "storeDescription": " Whether you're looking for a refreshing cool drink or a perfectly brewed cup of coffee, we've got you covered.",
+    "hostedLink": "https://shijo-p-binoy.github.io/Bring_Every_Business_Online/",
+    "githubLink": "https://github.com/Shijo-P-Binoy",
+    "storeImage": "/images/dreams.jpg"
+   },
+   {
     "name": "Bhagya Unnikrishnan",
     "githubUsername": "bhagyaunnikrishnan",
     "storeName": "CSC CENTER",
