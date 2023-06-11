@@ -278,7 +278,7 @@ const Home = () => {
                       </button>
                     </a>
                     <a
-                      href={store.hostedLink}
+                      href={store.githubLink}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
