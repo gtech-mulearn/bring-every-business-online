@@ -78,5 +78,15 @@
     "hostedLink": "https://alan200505.github.io/zeepets/",
     "githubLink": "https://github.com/alan200505/zeepets",
     "storeImage": "/images/zeepets.jpg"
-   }
+   },
+  {
+    "name": "Bhagya Unnikrishnan",
+    "githubUsername": "bhagyaunnikrishnan",
+    "storeName": "CSC CENTER",
+    "storeType": "Digital Seva Kendra",
+    "storeDescription": "This is a Digital Seva Kendra which provide you with both Government and Non-government Services, Train Booking, Recharge and Bill Payment.",
+    "hostedLink": "https://bhagyaunnikrishnan.github.io/CSC-CENTER/",
+    "githubLink": "https://github.com/bhagyaunnikrishnan/CSC-CENTER",
+    "storeImage": "/images/csc.jpg"
+  }
 ]
