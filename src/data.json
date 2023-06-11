@@ -89,4 +89,54 @@
     "githubLink": "https://github.com/sreenandharamesh",
     "storeImage": "public/images/koyiDEcafe1.jpg"
    },
- ]
+   {
+    "name": "Uma Unnikrishnan",
+    "githubUsername": "uma6895",
+    "storeName": "Kannimanga Family Restaurant",
+    "storeType": "Family Restaurant",
+    "storeDescription": "Family Restaurant that has been serving delicious meals for over a decade.",
+    "hostedLink": "https://uma6895.github.io/sample1/",
+    "githubLink": "https://github.com/uma6895/bring-every-business-online",
+    "storeImage": "/images/kannimanga.jpg"
+   },
+   { 
+    "name": "Alan K Anil",
+    "githubUsername": "Alan0602",
+    "storeName": "Goals International Gym",
+    "storeType": "Fitness centre",
+    "storeDescription": "The destination for building body,No pain No gain",
+    "hostedLink": "https://goalsinternationalgym.netlify.app",
+    "githubLink": "https://github.com/Alan0602/Goals_International.git",
+    "storeImage": "/images/gym.jpg"
+   },
+   {
+    "name": "Shijo P Binoy",
+    "githubUsername": "Shijo-P-Binoy",
+    "storeName": "Dreams Coolbar and Coffee House",
+    "storeType": "Coffee Shop",
+    "storeDescription": " Whether you're looking for a refreshing cool drink or a perfectly brewed cup of coffee, we've got you covered.",
+    "hostedLink": "https://shijo-p-binoy.github.io/Bring_Every_Business_Online/",
+    "githubLink": "https://github.com/Shijo-P-Binoy",
+    "storeImage": "/images/dreams.jpg"
+   },
+   {
+    "name": "Bhagya Unnikrishnan",
+    "githubUsername": "bhagyaunnikrishnan",
+    "storeName": "CSC CENTER",
+    "storeType": "Digital Seva Kendra",
+    "storeDescription": "This is a Digital Seva Kendra which provide you with both Government and Non-government Services, Train Booking, Recharge and Bill Payment.",
+    "hostedLink": "https://bhagyaunnikrishnan.github.io/CSC-CENTER/",
+    "githubLink": "https://github.com/bhagyaunnikrishnan/CSC-CENTER",
+    "storeImage": "/images/csc.jpg"
+   },
+   {
+    "name": "Angel Rose",
+    "githubUsername": "Angelrose19",
+    "storeName": "Paramount Bakes & Restaurants",
+    "storeType": "Restaurant",
+    "storeDescription": "Nestled in the vibrant city of Palakkad, Paramount Restaurants stands as a culinary haven, captivating food enthusiasts with its exceptional flavors and warm ambiance. With a commitment to culinary excellence, we invite you to embark on a gastronomic journey that will tantalize your taste buds and leave you craving for more.",
+    "hostedLink": "https://angelrose19.github.io/Restaurant-Webiste/",
+    "githubLink": "https://github.com/Angelrose19/Restaurant-Webiste",
+    "storeImage": "/images/pq.png"
+   }
+]
