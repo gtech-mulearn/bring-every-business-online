@@ -88,5 +88,15 @@
     "hostedLink": "https://angelrose19.github.io/Restaurant-Webiste/",
     "githubLink": "https://github.com/Angelrose19/Restaurant-Webiste",
     "storeImage": "/images/pq.png"
+   },
+  {
+    "name": "Sreenandha Ramesh",
+    "githubUsername": "sreenandharamesh",
+    "storeName": "KoyiDeCafe",
+    "storeType": "Restaurant",
+    "storeDescription": "Once you have it,you love it  ",
+    "hostedLink": "https://sreenandharamesh.github.io/sample4/",
+    "githubLink": "https://github.com/sreenandharamesh",
+    "storeImage": "public/images/koyiDEcafe1.jpg"
    }
 ]
