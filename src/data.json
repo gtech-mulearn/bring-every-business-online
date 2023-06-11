@@ -79,7 +79,7 @@
     "githubLink": "https://github.com/alan200505/zeepets",
     "storeImage": "/images/zeepets.jpg"
    },
-  {
+   {
     "name": "Jenin Joseph",
     "githubUsername": "Jenin82",
     "storeName": "Fit N Life",
@@ -88,5 +88,15 @@
     "hostedLink": "https://fitnlife.netlify.app/",
     "githubLink": "https://github.com/Jenin82/gym-typescript",
     "storeImage": "/images/image10.png"
+   },
+   {
+    "name": "Angel Rose",
+    "githubUsername": "Angelrose19",
+    "storeName": "Paramount Bakes & Restaurants",
+    "storeType": "Restaurant",
+    "storeDescription": "Nestled in the vibrant city of Palakkad, Paramount Restaurants stands as a culinary haven, captivating food enthusiasts with its exceptional flavors and warm ambiance. With a commitment to culinary excellence, we invite you to embark on a gastronomic journey that will tantalize your taste buds and leave you craving for more.",
+    "hostedLink": "https://angelrose19.github.io/Restaurant-Webiste/",
+    "githubLink": "https://github.com/Angelrose19/Restaurant-Webiste",
+    "storeImage": "/images/pq.png"
    }
 ]
