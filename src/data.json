@@ -79,6 +79,16 @@
     "githubLink": "https://github.com/alan200505/zeepets",
     "storeImage": "/images/zeepets.jpg"
    },
+   {
+    "name": "Uma Unnikrishnan",
+    "githubUsername": "uma6895",
+    "storeName": "Kannimanga Family Restaurant",
+    "storeType": "Family Restaurant",
+    "storeDescription": "Family Restaurant that has been serving delicious meals for over a decade.",
+    "hostedLink": "https://uma6895.github.io/sample1/",
+    "githubLink": "https://github.com/uma6895/bring-every-business-online",
+    "storeImage": "/images/kannimanga.jpg"
+   },
    { 
     "name": "Alan K Anil",
     "githubUsername": "Alan0602",
