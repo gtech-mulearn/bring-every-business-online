@@ -78,5 +78,15 @@
     "hostedLink": "https://alan200505.github.io/zeepets/",
     "githubLink": "https://github.com/alan200505/zeepets",
     "storeImage": "/images/zeepets.jpg"
+   },
+  {
+    "name": "Jenin Joseph",
+    "githubUsername": "Jenin82",
+    "storeName": "Fit N Life",
+    "storeType": "Gym",
+    "storeDescription": "Family Fitness Centre",
+    "hostedLink": "https://fitnlife.netlify.app/",
+    "githubLink": "https://github.com/Jenin82/gym-typescript",
+    "storeImage": "/images/zeepets.jpg"
    }
 ]
