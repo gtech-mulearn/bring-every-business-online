@@ -158,5 +158,16 @@
     "hostedLink": "https://angelrose19.github.io/Restaurant-Webiste/",
     "githubLink": "https://github.com/Angelrose19/Restaurant-Webiste",
     "storeImage": "/images/pq.png"
-   }
+   },
+  {
+    "name": "Arya krishnan G", 
+    "githubUsername": "AryakrishnanG", 
+    "storeName": "Tea shop", 
+    "storeType": "General Store", 
+    "storeDescription": "It was in the 19th century that tea shops were first set up in Kerala, and since then, they have become an integral part of society, shaping popular culture and politics.", 
+     "githubLink": "https://github.com/AryakrishnanG", 
+    "hostedLink": "https://aryakrishnang.github.io/teashop/chaikada.html", 
+    "storeImage": "/images/chaiwala.jpeg"
+  }
+  
 ]
