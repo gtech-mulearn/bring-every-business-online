@@ -1,6 +1,5 @@
 import React from "react";
 import Footer from "../../Components/Footer/Footer";
-import Navbar from "../../Components/Navbar/Navbar";
 import styles from "./Home.module.css";
 import data from "../../data.json";
 
@@ -247,45 +246,49 @@ const Home = () => {
               {data &&
                 data.map((store, key) => (
                   <div className={styles.ffv_card}>
-                    <img
-                      src={store.storeImage}
-                      alt=""
-                      className={styles.ffvc_image}
-                    />
-                    <p className={styles.ffvc_heading}>{store.storeName}</p>
-                    <p className={styles.ffvc_description}>
-                      {store.storeDescription}
-                    </p>
-                    <a
-                      href={`https://github.com/${store.githubUsername}`}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <p className={styles.ffvc_builtby}>
-                        Built By: {store.githubUsername}
+                    <div className={styles.header}>
+                      <img
+                        src={store.storeImage}
+                        alt=""
+                        className={styles.ffvc_image}
+                      />
+                      <p className={styles.ffvc_heading}>{store.storeName}</p>
+                      <p className={styles.ffvc_description}>
+                        {store.storeDescription}
                       </p>
-                    </a>
-                    <p className={styles.ffvc_builtby}>
-                      Store Type: {store.storeType}
-                    </p>
-                    <a
-                      href={store.hostedLink}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <button className={styles.ffvc_button}>
-                        View Website
-                      </button>
-                    </a>
-                    <a
-                      href={store.githubLink}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <button className={styles.ffvc_button}>
-                        View Github
-                      </button>
-                    </a>
+                      <a
+                        href={`https://github.com/${store.githubUsername}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <p className={styles.ffvc_builtby}>
+                          Built By: {store.githubUsername}
+                        </p>
+                      </a>
+                      <p className={styles.ffvc_builtby}>
+                        Store Type: {store.storeType}
+                      </p>
+                    </div>
+                    <div className={styles.buttons}>
+                      <a
+                        href={store.hostedLink}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <button className={styles.ffvc_button}>
+                          View Website
+                        </button>
+                      </a>
+                      <a
+                        href={store.githubLink}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <button className={styles.ffvc_button}>
+                          View Github
+                        </button>
+                      </a>
+                    </div>
                   </div>
                 ))}
             </div>

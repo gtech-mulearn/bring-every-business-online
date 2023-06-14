@@ -548,11 +548,18 @@ span {
   margin: 2rem;
 }
 
+.storeImage {
+  height: 2rem;
+}
+
 .ffv_cards {
   display: flex;
   flex-direction: row;
+  row-gap: 1rem;
+  column-gap: 1rem;
   flex-wrap: wrap;
-  align-items: center;
+  justify-content: stretch;
+  align-items: stretch;
 }
 
 .ffv_card {
@@ -562,10 +569,15 @@ span {
   padding: 30px 25px;
   border-radius: 10px;
   max-width: 20rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .ffvc_image {
   width: 100%;
+  height: 10rem;
   object-fit: cover;
   object-position: center;
   border-radius: 10px;
