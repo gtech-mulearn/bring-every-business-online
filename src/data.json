@@ -158,5 +158,15 @@
     "hostedLink": "https://angelrose19.github.io/Restaurant-Webiste/",
     "githubLink": "https://github.com/Angelrose19/Restaurant-Webiste",
     "storeImage": "/images/pq.png"
+   },
+   {
+    "name": "Mohammed Farhan TM",
+    "githubUsername": "Mo-Faraan",
+    "storeName": "Nimra Vessels",
+    "storeType": "Silverware/Utensils",
+    "storeDescription": "Explore unparalleled quality at Nimra Vessels, your ultimate destination for superior silverware, utensils and accessories to cater to all your daily household needs.",
+    "hostedLink": "https://mo-faraan.github.io/BringEveryBusinessOnline/",
+    "githubLink": "https://github.com/Mo-Faraan/BringEveryBusinessOnline",
+    "storeImage": "/images/cover.png"
    }
 ]
