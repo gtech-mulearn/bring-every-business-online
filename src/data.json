@@ -158,5 +158,15 @@
     "hostedLink": "https://angelrose19.github.io/Restaurant-Webiste/",
     "githubLink": "https://github.com/Angelrose19/Restaurant-Webiste",
     "storeImage": "/images/pq.png"
+   },
+   {
+    "name": "Akshay S Nair",
+    "githubUsername": "Akshay-s-nair",
+    "storeName": "Smitha Bakery",
+    "storeType": "Bakery",
+    "storeDescription": "Smitha bakery is situeted in a beautiful village named Muzhakkunnu, which is in Kannur, Kerala. This bakery is well known for providing quality and tasty snacks and beverages. So come and Taste the Real Taste of villege... ",
+    "hostedLink": "https://akshay-s-nair.github.io/bring_buisness_online/",
+    "githubLink": "https://github.com/Akshay-s-nair/bring_buisness_online",
+    "storeImage": "/images/smitha.jpg"
    }
 ]
