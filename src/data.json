@@ -158,5 +158,17 @@
     "hostedLink": "https://angelrose19.github.io/Restaurant-Webiste/",
     "githubLink": "https://github.com/Angelrose19/Restaurant-Webiste",
     "storeImage": "/images/pq.png"
+   },
+   {
+    "name": "Nandana Pradeep",
+    "githubUsername": "Nandana-pradeep33",
+    "storeName": "Haritham AutoElectricals And Car A/C",
+    "storeType": "Workshop",
+    "storeDescription": "This is a Workshop which provide best autoelectric services , Car AC repair and Battery Sale . Located in Highway-Junction,Chirakkal,Kannur,Kerala.",
+    "hostedLink": "https://nandana-pradeep33.github.io/HarithamAutoElectricals/",
+    "githubLink": "https://github.com/Nandana-pradeep33/HarithamAutoElectricals",
+    "storeImage": "/images/HarithamAutoElectricalsAndCarAc.jpeg"
    }
+
+  
 ]
