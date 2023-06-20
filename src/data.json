@@ -168,5 +168,15 @@
     "hostedLink": "https://abyg1.github.io/Orange_Events_Website",
     "githubLink": "https://github.com/AbyG1/Orange_Events_Website",
     "storeImage": "/images/Orange-logo.png"
-  }
+  },
+  {
+    "name": "Mohammed Farhan TM",
+    "githubUsername": "Mo-Faraan",
+    "storeName": "Nimra Vessels",
+    "storeType": "Silverware/Utensils",
+    "storeDescription": "Explore unparalleled quality at Nimra Vessels, your ultimate destination for superior silverware, utensils and accessories to cater to all your daily household needs.",
+    "hostedLink": "https://mo-faraan.github.io/BringEveryBusinessOnline/",
+    "githubLink": "https://github.com/Mo-Faraan/BringEveryBusinessOnline",
+    "storeImage": "/images/cover.png"
+   }
 ]
