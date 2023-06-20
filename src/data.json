@@ -159,4 +159,14 @@
     "githubLink": "https://github.com/Angelrose19/Restaurant-Webiste",
     "storeImage": "/images/pq.png"
    }
+    {
+    "name": "Muhammed Danil KP",
+    "githubUsername": "mhddnlkp",
+    "storeName": "Netway Cafe , Arakkinar",
+    "storeType": "Internet Cafe",
+    "storeDescription": "Netway cafe is a e governance center. This center provides with both Government and non-government services.",
+    "hostedLink": "https://mhddnlkp.github.io/netway/"
+    "githubLink": "https://github.com/mhddnlkp/netway.git",
+    "storeImage": "/images/.jpg"
+  },
 ]
