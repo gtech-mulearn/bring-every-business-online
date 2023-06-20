@@ -168,6 +168,36 @@
     "hostedLink": "https://nandana-pradeep33.github.io/HarithamAutoElectricals/",
     "githubLink": "https://github.com/Nandana-pradeep33/HarithamAutoElectricals",
     "storeImage": "/images/HarithamAutoElectricalsAndCarAc.jpeg"
+  },
+  {
+    "name": "Muhammed Danil KP",
+    "githubUsername": "mhddnlkp",
+    "storeName": "Netway Cafe , Arakkinar",
+    "storeType": "Internet Cafe",
+    "storeDescription": "Netway Cafe is an electronic governance center. This center provides with both Government and non-government services.",
+    "hostedLink": "https://mhddnlkp.github.io/netway/",
+    "githubLink": "https://github.com/mhddnlkp/netway.git",
+    "storeImage": "/images/shop.jpg"
+  },
+  {
+    "name": "Aby George",
+    "githubUsername": "AbyG1",
+    "storeName": "Orange Events",
+    "storeType": "Event management team's store",
+    "storeDescription": "Orange events is an event management team in Thumpoly, Alappuzha",
+    "hostedLink": "https://abyg1.github.io/Orange_Events_Website",
+    "githubLink": "https://github.com/AbyG1/Orange_Events_Website",
+    "storeImage": "/images/Orange-logo.png"
+  },
+  {
+    "name": "Mohammed Farhan TM",
+    "githubUsername": "Mo-Faraan",
+    "storeName": "Nimra Vessels",
+    "storeType": "Silverware/Utensils",
+    "storeDescription": "Explore unparalleled quality at Nimra Vessels, your ultimate destination for superior silverware, utensils and accessories to cater to all your daily household needs.",
+    "hostedLink": "https://mo-faraan.github.io/BringEveryBusinessOnline/",
+    "githubLink": "https://github.com/Mo-Faraan/BringEveryBusinessOnline",
+    "storeImage": "/images/cover.png"
    }
 
   
