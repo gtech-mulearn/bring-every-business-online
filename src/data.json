@@ -158,5 +158,15 @@
     "hostedLink": "https://angelrose19.github.io/Restaurant-Webiste/",
     "githubLink": "https://github.com/Angelrose19/Restaurant-Webiste",
     "storeImage": "/images/pq.png"
-   }
+   },
+  {
+    "name": "Aby George",
+    "githubUsername": "AbyG1",
+    "storeName": "Orange Events",
+    "storeType": "Event management team's store",
+    "storeDescription": "Orange events is an event management team in Thumpoly, Alappuzha",
+    "hostedLink": "https://abyg1.github.io/Orange_Events_Website",
+    "githubLink": "https://github.com/AbyG1/Orange_Events_Website",
+    "storeImage": "/images/Orange-logo.png"
+  }
 ]
