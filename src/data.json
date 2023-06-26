@@ -208,7 +208,16 @@
     "hostedLink": "https://mo-faraan.github.io/BringEveryBusinessOnline/",
     "githubLink": "https://github.com/Mo-Faraan/BringEveryBusinessOnline",
     "storeImage": "/images/cover.png"
+   },
+  {
+    "name": "Anjali Rajendran",
+    "githubUsername": "AnjaliRaj015",
+    "storeName": "Cake By Honey",
+    "storeType": "Bake Shop",
+    "storeDescription": "Cake by honey offers classic treats made daily by in-house bakers, using the freshest & finest ingredients, with excellent customer service and at the best price.",
+    "hostedLink": "https://cakebyhoney.netlify.app/",
+    "githubLink": "https://github.com/AnjaliRaj015/cakebyhoney",
+    "storeImage": "/images/cakebyhoney.png"
    }
-
   
 ]
