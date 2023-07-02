@@ -88,8 +88,8 @@
     "hostedLink": "https://alan200505.github.io/zeepets/",
     "githubLink": "https://github.com/alan200505/zeepets",
     "storeImage": "/images/zeepets.jpg"
-   },
-   {
+  },
+  {
     "name": "Abel Mathew Simoni",
     "githubUsername": "abelmathew07",
     "storeName": "Xperia Mobiles",
@@ -98,8 +98,8 @@
     "hostedLink": "https://abelmathew07.github.io/bring-a-business/",
     "githubLink": "https://github.com/abelmathew07/bring-a-business",
     "storeImage": "/images/xperia.jpg"
-   },
-   {
+  },
+  {
     "name": "Sreenandha Ramesh",
     "githubUsername": "sreenandharamesh",
     "storeName": "Koyi De Cafe",
@@ -108,8 +108,8 @@
     "hostedLink": "https://sreenandharamesh.github.io/sample4/",
     "githubLink": "https://github.com/sreenandharamesh",
     "storeImage": "/images/koyiDEcafe1.jpg"
-   },
-   {
+  },
+  {
     "name": "Uma Unnikrishnan",
     "githubUsername": "uma6895",
     "storeName": "Kannimanga Family Restaurant",
@@ -118,8 +118,8 @@
     "hostedLink": "https://uma6895.github.io/sample1/",
     "githubLink": "https://github.com/uma6895/bring-every-business-online",
     "storeImage": "/images/kannimanga.jpg"
-   },
-   { 
+  },
+  {
     "name": "Alan K Anil",
     "githubUsername": "Alan0602",
     "storeName": "Goals International Gym",
@@ -128,8 +128,8 @@
     "hostedLink": "https://goalsinternationalgym.netlify.app",
     "githubLink": "https://github.com/Alan0602/Goals_International.git",
     "storeImage": "/images/gym.jpg"
-   },
-   {
+  },
+  {
     "name": "Shijo P Binoy",
     "githubUsername": "Shijo-P-Binoy",
     "storeName": "Dreams Coolbar and Coffee House",
@@ -138,8 +138,8 @@
     "hostedLink": "https://shijo-p-binoy.github.io/Bring_Every_Business_Online/",
     "githubLink": "https://github.com/Shijo-P-Binoy",
     "storeImage": "/images/dreams.jpg"
-   },
-   {
+  },
+  {
     "name": "Bhagya Unnikrishnan",
     "githubUsername": "bhagyaunnikrishnan",
     "storeName": "CSC CENTER",
@@ -148,8 +148,8 @@
     "hostedLink": "https://bhagyaunnikrishnan.github.io/CSC-CENTER/",
     "githubLink": "https://github.com/bhagyaunnikrishnan/CSC-CENTER",
     "storeImage": "/images/csc.jpg"
-   },
-   {
+  },
+  {
     "name": "Angel Rose",
     "githubUsername": "Angelrose19",
     "storeName": "Paramount Bakes & Restaurants",
@@ -158,8 +158,8 @@
     "hostedLink": "https://angelrose19.github.io/Restaurant-Webiste/",
     "githubLink": "https://github.com/Angelrose19/Restaurant-Webiste",
     "storeImage": "/images/pq.png"
-   },
-   {
+  },
+  {
     "name": "Akshay S Nair",
     "githubUsername": "Akshay-s-nair",
     "storeName": "Smitha Bakery",
@@ -208,7 +208,15 @@
     "hostedLink": "https://mo-faraan.github.io/BringEveryBusinessOnline/",
     "githubLink": "https://github.com/Mo-Faraan/BringEveryBusinessOnline",
     "storeImage": "/images/cover.png"
-   }
-
-  
+  },
+  {
+    "name": "Vishakh Abhayan",
+    "githubUsername": "vishakh-abhayan",
+    "storeName": "Pulp Hub",
+    "storeType": "Shawarma Restaurant",
+    "storeDescription": "The ultimate destination for mouthwatering Shawarmas! We take pride in serving the finest quality Shawarmas that are made with love and passion.",
+    "hostedLink": "https://vishakh-abhayan.github.io/Dev_task/",
+    "githubLink": "https://github.com/vishakh-abhayan/Dev_task",
+    "storeImage": "/images/pulp_hub.jpg"
+  }
 ]
