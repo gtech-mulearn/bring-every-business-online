@@ -218,5 +218,15 @@
     "hostedLink": "https://vishakh-abhayan.github.io/Dev_task/",
     "githubLink": "https://github.com/vishakh-abhayan/Dev_task",
     "storeImage": "/images/pulp_hub.jpg"
+  },
+    {
+    "name": "Ananthu Lal",
+    "githubUsername": "heyananthu",
+    "storeName": "Manju Fancy",
+    "storeType": "Fancy Store",
+    "storeDescription": "The ultimate destination for Fancy items.",
+    "hostedLink": "https://heyananthu.github.io/manjufancy/",
+    "githubLink": "https://github.com/heyananthu/manjufancy",
+    "storeImage": "/images/manju fancy.jpg"
   }
 ]
