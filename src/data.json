@@ -218,5 +218,15 @@
     "hostedLink": "https://vishakh-abhayan.github.io/Dev_task/",
     "githubLink": "https://github.com/vishakh-abhayan/Dev_task",
     "storeImage": "/images/pulp_hub.jpg"
+  },
+    {
+    "name": "Ahammed Irfan",
+    "githubUsername": "irfanpa005",
+    "storeName": "Associated Medicals and Pet Shopee",
+    "storeType": "Pet Supplies Store",
+    "storeDescription": "Since 2008, Associated Medicals in Calicut has been your trusted partner in pet care, offering a wide range of services, including high-quality pet supplies and essential medicines and vaccines for all pets",
+    "hostedLink": "https://associatedmedicals.netlify.app/",
+    "githubLink": "https://github.com/irfanpa005/Bewbdev-Webstite-for-a-Store",
+    "storeImage": "/images/Associated Medicals.jpg"
   }
 ]
