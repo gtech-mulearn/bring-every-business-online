@@ -219,7 +219,7 @@
     "githubLink": "https://github.com/vishakh-abhayan/Dev_task",
     "storeImage": "/images/pulp_hub.jpg"
   },
-    {
+  {
     "name": "Jerishab M",
     "githubUsername": "JERISHAB",
     "storeName": "UrbanWheels",
@@ -228,5 +228,45 @@
     "hostedLink": "https://jerishab.github.io/Urbanwheels/",
     "githubLink": "https://github.com/JERISHAB/Urbanwheels",
     "storeImage": "/images/UrbanWheels-img.jpg"
+  },
+  {
+    "name": "Sunil K Joseph",
+    "githubUsername": "sunilkjoseph",
+    "storeName": "Fishly Fish Farm",
+    "storeType": "Fish Farm",
+    "storeDescription": "Fishly Fish Farm: Where Excellence in GIFT Tilapia Farming Meets Sustainable Aquaculture.",
+    "hostedLink": "https://sunilkjoseph.github.io/fishly/",
+    "githubLink": "https://github.com/sunilkjoseph/fishly",
+    "storeImage": "/images/fishly.jpg"
+  },
+  {
+    "name": "Bibin Vincent",
+    "githubUsername": "BibinVincent55",
+    "storeName": "Binu Fruit Stop",
+    "storeType": "Fruit Shop",
+      "storeDescription": "Binu fruit shop is a leading fruit shop in Pathanamthitta. We take pride in serving the finest quality Fruits that are nurtured with passion.",
+    "hostedLink": "https://bibinvincent55.github.io/fruit-shop/",
+    "githubLink": "https://github.com/BibinVincent55/fruit-shop",
+    "storeImage": "/images/fruitshop.jpg"
+  },
+  {
+    "name": "Ahammed Irfan",
+    "githubUsername": "irfanpa005",
+    "storeName": "Associated Medicals and Pet Shopee",
+    "storeType": "Pet Supplies Store",
+    "storeDescription": "Since 2008, Associated Medicals in Calicut has been your trusted partner in pet care, offering a wide range of services, including high-quality pet supplies and essential medicines and vaccines for all pets",
+    "hostedLink": "https://associatedmedicals.netlify.app/",
+    "githubLink": "https://github.com/irfanpa005/Bewbdev-Webstite-for-a-Store",
+    "storeImage": "/images/Associated Medicals.jpg"
+  },
+  {
+    "name": "Ananthu Lal",
+    "githubUsername": "heyananthu",
+    "storeName": "Manju Fancy",
+    "storeType": "Fancy Store",
+    "storeDescription": "The ultimate destination for Fancy items.",
+    "hostedLink": "https://heyananthu.github.io/manjufancy/",
+    "githubLink": "https://github.com/heyananthu/manjufancy",
+    "storeImage": "/images/manju fancy.jpg"
   }
 ]
