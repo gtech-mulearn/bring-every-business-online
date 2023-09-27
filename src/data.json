@@ -220,6 +220,16 @@
     "storeImage": "/images/pulp_hub.jpg"
   },
   {
+    "name": "Jerishab M",
+    "githubUsername": "JERISHAB",
+    "storeName": "UrbanWheels",
+    "storeType": "Taxi Service",
+    "storeDescription": " we transform transportation into memorable adventures.",
+    "hostedLink": "https://jerishab.github.io/Urbanwheels/",
+    "githubLink": "https://github.com/JERISHAB/Urbanwheels",
+    "storeImage": "/images/UrbanWheels-img.jpg"
+  },
+  {
     "name": "Sunil K Joseph",
     "githubUsername": "sunilkjoseph",
     "storeName": "Fishly Fish Farm",
