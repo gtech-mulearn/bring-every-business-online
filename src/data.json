@@ -220,6 +220,16 @@
     "storeImage": "/images/pulp_hub.jpg"
   },
   {
+    "name": "Sunil K Joseph",
+    "githubUsername": "sunilkjoseph",
+    "storeName": "Fishly Fish Farm",
+    "storeType": "Fish Farm",
+    "storeDescription": "Fishly Fish Farm: Where Excellence in GIFT Tilapia Farming Meets Sustainable Aquaculture.",
+    "hostedLink": "https://sunilkjoseph.github.io/fishly/",
+    "githubLink": "https://github.com/sunilkjoseph/fishly",
+    "storeImage": "/images/fishly.jpg"
+  },
+  {
     "name": "Bibin Vincent",
     "githubUsername": "BibinVincent55",
     "storeName": "Binu Fruit Stop",
