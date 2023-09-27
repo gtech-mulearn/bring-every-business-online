@@ -219,7 +219,7 @@
     "githubLink": "https://github.com/vishakh-abhayan/Dev_task",
     "storeImage": "/images/pulp_hub.jpg"
   },
-    {
+  {
     "name": "Ahammed Irfan",
     "githubUsername": "irfanpa005",
     "storeName": "Associated Medicals and Pet Shopee",
@@ -228,5 +228,16 @@
     "hostedLink": "https://associatedmedicals.netlify.app/",
     "githubLink": "https://github.com/irfanpa005/Bewbdev-Webstite-for-a-Store",
     "storeImage": "/images/Associated Medicals.jpg"
+  },
+  {
+    "name": "Ananthu Lal",
+    "githubUsername": "heyananthu",
+    "storeName": "Manju Fancy",
+    "storeType": "Fancy Store",
+    "storeDescription": "The ultimate destination for Fancy items.",
+    "hostedLink": "https://heyananthu.github.io/manjufancy/",
+    "githubLink": "https://github.com/heyananthu/manjufancy",
+    "storeImage": "/images/manju fancy.jpg"
+
   }
 ]
