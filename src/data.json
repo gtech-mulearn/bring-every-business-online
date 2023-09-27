@@ -220,6 +220,16 @@
     "storeImage": "/images/pulp_hub.jpg"
   },
   {
+    "name": "Bibin Vincent",
+    "githubUsername": "BibinVincent55",
+    "storeName": "Binu Fruit Stop",
+    "storeType": "Fruit Shop",
+      "storeDescription": "Binu fruit shop is a leading fruit shop in Pathanamthitta. We take pride in serving the finest quality Fruits that are nurtured with passion.",
+    "hostedLink": "https://bibinvincent55.github.io/fruit-shop/",
+    "githubLink": "https://github.com/BibinVincent55/fruit-shop",
+    "storeImage": "/images/fruitshop.jpg"
+  },
+  {
     "name": "Ahammed Irfan",
     "githubUsername": "irfanpa005",
     "storeName": "Associated Medicals and Pet Shopee",
@@ -238,6 +248,5 @@
     "hostedLink": "https://heyananthu.github.io/manjufancy/",
     "githubLink": "https://github.com/heyananthu/manjufancy",
     "storeImage": "/images/manju fancy.jpg"
-
   }
 ]
