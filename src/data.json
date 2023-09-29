@@ -218,5 +218,16 @@
     "hostedLink": "https://vishakh-abhayan.github.io/Dev_task/",
     "githubLink": "https://github.com/vishakh-abhayan/Dev_task",
     "storeImage": "/images/pulp_hub.jpg"
+  },
+  {
+    "name": "Adithya Rajesh",
+    "githubUsername": "AdithyaRajesh10",
+    "storeName": "SR Electricals",
+    "storeType": "Engineering Services",
+    "storeDescription": "We are dedicated to delivering exceptional, tailored service and support, ensuring customer satisfaction by providing customized solutions to meet specific needs.",
+    "hostedLink": "https://adithyarajesh10.github.io/Bring_every-business-online/",
+    "githubLink": "https://github.com/AdithyaRajesh10/Bring_every-business-online",
+    "storeImage": "/images/SR Logo.png"
   }
+  
 ]
