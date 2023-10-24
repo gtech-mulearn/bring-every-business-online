@@ -278,6 +278,16 @@
     "hostedLink": "https://heyananthu.github.io/manjufancy/",
     "githubLink": "https://github.com/heyananthu/manjufancy",
     "storeImage": "/images/manju fancy.jpg"
-  }
+  },
+   {
+    "name": "Arya P",
+    "githubUsername": "aryapreetha",
+    "storeName": "Silpi Gardens",
+    "storeType": "Garden",
+    "storeDescription": "the ultimate space for plants",
+    "hostedLink": "https://aryapreetha.github.io/Silpi_Gardens/",
+    "githubLink": "https://github.com/aryapreetha/Silpi_Gardens",
+    "storeImage": "/images/shop.png"
+  },
   
 ]
