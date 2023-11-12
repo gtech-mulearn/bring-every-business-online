@@ -299,4 +299,14 @@
     "hostedLink": "https://kammathdental.com",
     "storeImage": "/images/clinic.jpg"
   }
+  {
+    "name": "Yadhukrishna",
+    "githubUsername": "yadhukrishnx",
+    "storeName": "Digi-Gramam",
+    "storeType": "Gerenal Store",
+    "storeDescription": "This is Customer Service Point for servicing technology better . We Provide Services Like Photostat,Exam registrations,Ticket booking,Document applications,Certificate,Mini ATM,E-payments,Passport Services,Employement registration etc",
+    "githubLink": "https://github.com/yadhukrishnx/DIGIGRAMAM",
+    "hostedLink": "https://yadhukrishnx.github.io/DIGIGRAMAM/",
+    "storeImage": "/photo_2023-11-05_10-59-02.jpg"
+  }
 ]
