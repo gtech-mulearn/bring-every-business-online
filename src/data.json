@@ -298,5 +298,15 @@
     "githubLink": "https://github.com/viraka/clinic/tree/testserver",
     "hostedLink": "https://kammathdental.com",
     "storeImage": "/images/clinic.jpg"
+  },
+  {
+    "name": "Amanul Farhan",
+    "githubUsername": "AmanulFarhan",
+    "storeName": "Blue Sea Aquarium and Pet's Hub",
+    "storeType": "Pets and accessories shop",
+    "storeDescription": "Blue Sea is a pet's shop owned by Mohamed Shameer,which is the ultimate destination for all your furry, feathery, and scaly companions, offering a wide array of adorable animals, top-quality pet supplies, and expert guidance to help you find the perfect addition to your family.",
+    "githubLink": "https://github.com/AmanulFarhan/Business_website",
+    "hostedLink": "https://amanulfarhan.github.io/Business_website/Business%20site/BlueSeaPetShop/",
+    "storeImage": "/images/shop_pic-1"
   }
 ]
