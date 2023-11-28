@@ -298,5 +298,15 @@
     "githubLink": "https://github.com/viraka/clinic/tree/testserver",
     "hostedLink": "https://kammathdental.com",
     "storeImage": "/images/clinic.jpg"
+  },
+  {
+    "name": "Vinayapriya C C",
+    "githubUsername": "Vinayapriya",
+    "storeName": "Hotel Paradise",
+    "storeType": "Restaurant",
+    "storeDescription": "Hotel Paradise is situeted in a beautiful village named Karimkunnam, which is in Idukki, Kerala. This hotel is well known for providing quality and tasty foods.",
+    "githubLink": "https://github.com/Vinayapriya/Paradise",
+    "hostedLink": "https://vinayapriya.github.io/Paradise/",
+    "storeImage": "/images/hparadise.jpg"
   }
 ]
