@@ -299,4 +299,14 @@
     "hostedLink": "https://kammathdental.com",
     "storeImage": "/images/clinic.jpg"
   }
+  {
+    "name": "Christy Maria Sebastian",
+    "githubUsername": "chriz-ty",
+    "storeName": "Cupcake Siblings",
+    "storeType": "Bakery",
+    "storeDescription": "A bakery with great ambiance and tasty snacks & shakes!",
+    "githubLink": "https://github.com/chriz-ty/Bring-every-business-online/tree/main/CupcakeSiblings",
+    "hostedLink": "https://chriz-ty.github.io/Bring-every-business-online/CupcakeSiblings/index.html",
+    "storeImage": "/images/kada.jpg"
+  }
 ]
