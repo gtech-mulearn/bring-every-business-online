@@ -298,5 +298,15 @@
     "githubLink": "https://github.com/viraka/clinic/tree/testserver",
     "hostedLink": "https://kammathdental.com",
     "storeImage": "/images/clinic.jpg"
+  },
+  {
+    "name": "Akhil Sabu",
+    "githubUsername": "AKHXI1",
+    "storeName": "Cake stories by rintu",
+    "storeType": "Cake shop",
+    "storeDescription": "Best cake shop in pala",
+    "hostedLink": "https://akhxi1.github.io/make-buisness-online/",
+    "githubLink": "https://github.com/AKHXI1/make-buisness-online",
+    "storeImage": "/images/Cake Stories.jpg"
   }
 ]
