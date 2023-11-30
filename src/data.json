@@ -254,7 +254,7 @@
     "githubUsername": "BibinVincent55",
     "storeName": "Binu Fruit Stop",
     "storeType": "Fruit Shop",
-      "storeDescription": "Binu fruit shop is a leading fruit shop in Pathanamthitta. We take pride in serving the finest quality Fruits that are nurtured with passion.",
+    "storeDescription": "Binu fruit shop is a leading fruit shop in Pathanamthitta. We take pride in serving the finest quality Fruits that are nurtured with passion.",
     "hostedLink": "https://bibinvincent55.github.io/fruit-shop/",
     "githubLink": "https://github.com/BibinVincent55/fruit-shop",
     "storeImage": "/images/fruitshop.jpg"
@@ -289,4 +289,24 @@
     "githubLink": "https://github.com/AKHXI1/make-buisness-online",
     "storeImage": "/images/Cake Stories.jpg"
   }
+    "name": "Arya P",
+    "githubUsername": "aryapreetha",
+    "storeName": "Silpi Gardens",
+    "storeType": "Garden",
+    "storeDescription": "the ultimate space for plants",
+    "hostedLink": "https://aryapreetha.github.io/Silpi_Gardens/",
+    "githubLink": "https://github.com/aryapreetha/Silpi_Gardens",
+    "storeImage": "/images/shop.png"
+  },
+  {
+    "name": "M Viraj Prabhu",
+    "githubUsername": "viraka",
+    "storeName": "Kammath Dental Clinic",
+    "storeType": "Medical Store",
+    "storeDescription": "Dr Rekha's Kammath Dental Clinic, located in the heart of the Thrissur City, offers the best quality dental care to you at the most reasonable cost.",
+    "githubLink": "https://github.com/viraka/clinic/tree/testserver",
+    "hostedLink": "https://kammathdental.com",
+    "storeImage": "/images/clinic.jpg"
+  }
 ]
+
