@@ -298,5 +298,15 @@
     "githubLink": "https://github.com/viraka/clinic/tree/testserver",
     "hostedLink": "https://kammathdental.com",
     "storeImage": "/images/clinic.jpg"
+  },
+  {
+    "name": "Yadhukrishna N P",
+    "githubUsername": "yadhukrishnx",
+    "storeName": "Digi gramam Ecenter",
+    "storeType": "General Store",
+    "storeDescription": "Digi Gramam is a Customer Service point . Provides Electronic services for customers efficiently",
+    "githubLink": "https://github.com/yadhukrishnx/DIGIGRAMAM",
+    "hostedLink": "https://yadhukrishnx.github.io/DIGIGRAMAM/",
+    "storeImage": "/images/digigramam.jpg"
   }
 ]
