@@ -318,5 +318,15 @@
     "hostedLink": "https://bibs23.github.io/teapotcafe/",
     "githubLink": "https://github.com/BIBS23/teapotcafe",
     "storeImage": "/images/teapot cafe.jpg"
+  },
+  {
+    "name": "Christy Maria Sebastian",
+    "githubUsername": "chriz-ty",
+    "storeName": "Cupcake Siblings",
+    "storeType": "Bakery",
+    "storeDescription": "A bakery with great ambiance and tasty snacks & shakes!",
+    "githubLink": "https://github.com/chriz-ty/Bring-every-business-online/tree/main/CupcakeSiblings",
+    "hostedLink": "https://chriz-ty.github.io/Bring-every-business-online/CupcakeSiblings/index.html",
+    "storeImage": "/images/kada.jpg"
   }
 ]
