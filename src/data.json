@@ -308,5 +308,15 @@
     "githubLink": "https://github.com/viraka/clinic/tree/testserver",
     "hostedLink": "https://kammathdental.com",
     "storeImage": "/images/clinic.jpg"
+  },
+  {
+    "name": "Bibin Jose",
+    "githubUsername": "BIBS23",
+    "storeName": "Peter Celli St, Fort Kochi, Kochi",
+    "storeType": "Cafe",
+    "storeDescription": "Teapot Cafe is located on Peter Celli Street in the heart of Fort Kochi, Kochi. This charming establishment offers an atmospheric retreat for tea enthusiasts and food connoisseurs, combining heritage-style rooms with whimsical tea-themed accents for a unique and delightful experience.",
+    "hostedLink": "https://bibs23.github.io/teapotcafe/",
+    "githubLink": "https://github.com/BIBS23/teapotcafe",
+    "storeImage": "/images/teapot cafe.jpg"
   }
 ]
