@@ -310,6 +310,16 @@
     "storeImage": "/images/clinic.jpg"
   },
   {
+    "name": "Krupa Anna Kuruvilla",
+    "githubUsername": "Krupa-1010",
+    "storeName": "Mio Cakery",
+    "storeType": "Cake Shop",
+    "storeDescription": "Make your Occasions Delicious with Mio",
+    "githubLink": "https://github.com/Krupa-1010/Learning-Fest/tree/main/BRING%20EVERY%20BUSINESS%20ONLINE",
+    "hostedLink": "https://krupa-1010.github.io/Learning-Fest/BRING%20EVERY%20BUSINESS%20ONLINE/index.html",
+    "storeImage": "/images/mio cakery.png"
+  },
+  {
     "name": "Bibin Jose",
     "githubUsername": "BIBS23",
     "storeName": "Peter Celli St, Fort Kochi, Kochi",
