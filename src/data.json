@@ -1,5 +1,15 @@
 [
   {
+    "name": "Amanul Farhan",
+    "githubUsername": "AmanulFarhan",
+    "storeName": "Blue Sea Aquarium and Pet's Hub",
+    "storeType": "Pets and accessories",
+    "storeDescription": "Blue Sea is a pets shop owned by Mohammed Shameer. It is situated in Aluva, in the Ernakulam district.",
+    "hostedLink": "https://amanulfarhan.github.io/Business_website/Business%20site/BlueSeaPetShop/",
+    "githubLink": "https://github.com/AmanulFarhan/Business_website",
+    "storeImage": "/images/shop_pic-1.jpg"
+  },
+  {
     "name": "Bijo Mathew Jose",
     "githubUsername": "bijomathewjose",
     "storeName": "Minnale : Handmade Paper Craft Products",
@@ -308,5 +318,45 @@
     "hostedLink": "https://akhxi1.github.io/make-buisness-online/",
     "githubLink": "https://github.com/AKHXI1/make-buisness-online",
     "storeImage": "/images/Cake Stories.jpg"
+  }
+  {
+    "name": "Vinayapriya C C",
+    "githubUsername": "Vinayapriya",
+    "storeName": "Hotel Paradise",
+    "storeType": "Restaurant",
+    "storeDescription": "Hotel Paradise is situeted in a beautiful village named Karimkunnam, which is in Idukki, Kerala. This hotel is well known for providing quality and tasty foods.",
+    "githubLink": "https://github.com/Vinayapriya/Paradise",
+    "hostedLink": "https://vinayapriya.github.io/Paradise/",
+    "storeImage": "/images/hparadise.jpg"
+  }.
+  {
+    "name": "Krupa Anna Kuruvilla",
+    "githubUsername": "Krupa-1010",
+    "storeName": "Mio Cakery",
+    "storeType": "Cake Shop",
+    "storeDescription": "Make your Occasions Delicious with Mio",
+    "githubLink": "https://github.com/Krupa-1010/Learning-Fest/tree/main/BRING%20EVERY%20BUSINESS%20ONLINE",
+    "hostedLink": "https://krupa-1010.github.io/Learning-Fest/BRING%20EVERY%20BUSINESS%20ONLINE/index.html",
+    "storeImage": "/images/mio cakery.png"
+  },
+  {
+    "name": "Bibin Jose",
+    "githubUsername": "BIBS23",
+    "storeName": "Peter Celli St, Fort Kochi, Kochi",
+    "storeType": "Cafe",
+    "storeDescription": "Teapot Cafe is located on Peter Celli Street in the heart of Fort Kochi, Kochi. This charming establishment offers an atmospheric retreat for tea enthusiasts and food connoisseurs, combining heritage-style rooms with whimsical tea-themed accents for a unique and delightful experience.",
+    "hostedLink": "https://bibs23.github.io/teapotcafe/",
+    "githubLink": "https://github.com/BIBS23/teapotcafe",
+    "storeImage": "/images/teapot cafe.jpg"
+  },
+  {
+    "name": "Christy Maria Sebastian",
+    "githubUsername": "chriz-ty",
+    "storeName": "Cupcake Siblings",
+    "storeType": "Bakery",
+    "storeDescription": "A bakery with great ambiance and tasty snacks & shakes!",
+    "githubLink": "https://github.com/chriz-ty/Bring-every-business-online/tree/main/CupcakeSiblings",
+    "hostedLink": "https://chriz-ty.github.io/Bring-every-business-online/CupcakeSiblings/index.html",
+    "storeImage": "/images/kada.jpg"
   }
 ]
