@@ -368,5 +368,15 @@
         "githubLink": "https://github.com/chriz-ty/Bring-every-business-online/tree/main/CupcakeSiblings",
         "hostedLink": "https://chriz-ty.github.io/Bring-every-business-online/CupcakeSiblings/index.html",
         "storeImage": "/images/kada.jpg"
+    },
+    {
+        "name": "K H Arjun",
+        "githubUsername": "arjunkh2004",
+        "storeName": "Revathy Medicals",
+        "storeType": "Medical Store",
+        "storeDescription": "A customer-friendly medical store to meet your healthcare necessities!",
+        "githubLink": "https://github.com/ArjunKH2004/Med",
+        "hostedLink": "https://arjunkh2004.github.io/Med/",
+        "storeImage": "/images/rev_med.jpeg"
     }
 ]
