@@ -244,7 +244,7 @@ const Home = () => {
           <div className={styles.ffv_cards_container}>
             <div className={styles.ffv_cards}>
               {data &&
-                data.map((store, key) => (
+                data.reverse().map((store, key) => (
                   <div className={styles.ffv_card}>
                     <div className={styles.header}>
                       <img
