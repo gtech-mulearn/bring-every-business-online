@@ -378,5 +378,15 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+  },
+    {
+    "name": "Prithviraj R",
+    "githubUsername": "Raj057",
+    "storeName": "Cafe Pandora",
+    "storeType": "Cafe/Restraunt",
+    "storeDescription":"A beachside cafe offering cold and hot drinks for travellers. Offers Special drinks for everyone and gives everyone a spot to enjoy after a hot (or cold) day out.",
+     "githubLink": "https://github.com/Raj057/Bring_every_business_online",
+    "hostedLink": "https://raj057.github.io/Bring_every_business_online/Cafe%20Pandora",
+    "storeImage": "/images/shop_pandora.jpg"
   }
 ]
