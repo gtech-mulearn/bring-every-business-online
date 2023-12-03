@@ -1,15 +1,16 @@
 [
   {
-    "name": "JIBIN N",
-    "githubUsername": "jibinn@mulearn",
-    "storeName": "Zeka Events- the Event Management Team",
-    "storeType": "Event Management",
-    "storeDescription": "Zeka Events specializes in meticulously organizing corporate events and weddings, blending experience with a keen eye for detail. Embracing technological advancements, they offer a myriad of options to elevate your events, ensuring each occasion is both iconic and elegant.",
-    "hostedLink": "https://jibinntcr.github.io/bring-every-business-online/",
-    "githubLink": "https://github.com/jibinntcr/bring-every-business-online",
-    "storeImage": "bring-every-business-online/assets/img"
+
+     "name": "Amanul Farhan",
+    "githubUsername": "AmanulFarhan",
+    "storeName": "Blue Sea Aquarium and Pet's Hub",
+    "storeType": "Pets and accessories",
+    "storeDescription": "Blue Sea is a pets shop owned by Mohammed Shameer. It is situated in Aluva, in the Ernakulam district.",
+    "hostedLink": "https://amanulfarhan.github.io/Business_website/Business%20site/BlueSeaPetShop/",
+    "githubLink": "https://github.com/AmanulFarhan/Business_website",
+    "storeImage": "/images/shop_pic-1.jpg"
   },
-  
+
   {
     "name": "Bijo Mathew Jose",
     "githubUsername": "bijomathewjose",
@@ -309,5 +310,85 @@
     "githubLink": "https://github.com/viraka/clinic/tree/testserver",
     "hostedLink": "https://kammathdental.com",
     "storeImage": "/images/clinic.jpg"
+  },
+  {
+    "name": "Yadhukrishna N P",
+    "githubUsername": "yadhukrishnx",
+    "storeName": "Digi gramam Ecenter",
+    "storeType": "General Store",
+    "storeDescription": "Digi Gramam is a Customer Service point . Provides Electronic services for customers efficiently",
+    "githubLink": "https://github.com/yadhukrishnx/DIGIGRAMAM",
+    "hostedLink": "https://yadhukrishnx.github.io/DIGIGRAMAM/",
+    "storeImage": "/images/digigramam.jpg"
+  },
+  {
+    "name": "Akhil Sabu",
+    "githubUsername": "AKHXI1",
+    "storeName": "Cake Stories by Rintu",
+    "storeType": "Cake Shop",
+    "storeDescription": "Whether you're celebrating a special occasion or simply indulging in a sweet treat, our extensive selection of cakes has something to tantalize every taste bud.",
+    "hostedLink": "https://akhxi1.github.io/make-buisness-online/",
+    "githubLink": "https://github.com/AKHXI1/make-buisness-online",
+    "storeImage": "/images/Cake Stories.jpg"
+  },
+  {
+    "name": "Vinayapriya C C",
+    "githubUsername": "Vinayapriya",
+    "storeName": "Hotel Paradise",
+    "storeType": "Restaurant",
+    "storeDescription": "Hotel Paradise is situeted in a beautiful village named Karimkunnam, which is in Idukki, Kerala. This hotel is well known for providing quality and tasty foods.",
+    "githubLink": "https://github.com/Vinayapriya/Paradise",
+    "hostedLink": "https://vinayapriya.github.io/Paradise/",
+    "storeImage": "/images/hparadise.jpg"
+  },
+  {
+    "name": "Krupa Anna Kuruvilla",
+    "githubUsername": "Krupa-1010",
+    "storeName": "Mio Cakery",
+    "storeType": "Cake Shop",
+    "storeDescription": "Make your Occasions Delicious with Mio",
+    "githubLink": "https://github.com/Krupa-1010/Learning-Fest/tree/main/BRING%20EVERY%20BUSINESS%20ONLINE",
+    "hostedLink": "https://krupa-1010.github.io/Learning-Fest/BRING%20EVERY%20BUSINESS%20ONLINE/index.html",
+    "storeImage": "/images/mio cakery.png"
+  },
+  {
+    "name": "Bibin Jose",
+    "githubUsername": "BIBS23",
+    "storeName": "Peter Celli St, Fort Kochi, Kochi",
+    "storeType": "Cafe",
+    "storeDescription": "Teapot Cafe is located on Peter Celli Street in the heart of Fort Kochi, Kochi. This charming establishment offers an atmospheric retreat for tea enthusiasts and food connoisseurs, combining heritage-style rooms with whimsical tea-themed accents for a unique and delightful experience.",
+    "hostedLink": "https://bibs23.github.io/teapotcafe/",
+    "githubLink": "https://github.com/BIBS23/teapotcafe",
+    "storeImage": "/images/teapot cafe.jpg"
+  },
+  {
+    "name": "Christy Maria Sebastian",
+    "githubUsername": "chriz-ty",
+    "storeName": "Cupcake Siblings",
+    "storeType": "Bakery",
+    "storeDescription": "Welcome to Cupcake Siblings, where every visit is a sweet adventure! Indulge your taste buds in the delightful world of our handcrafted cakes, each a masterpiece baked with love and expertise. ",
+    "githubLink": "https://github.com/chriz-ty/Bring-every-business-online/tree/main/CupcakeSiblings",
+    "hostedLink": "https://chriz-ty.github.io/Bring-every-business-online/CupcakeSiblings/index.html",
+    "storeImage": "/images/kada.jpg"
+  },
+  {
+    "name": "K H Arjun",
+    "githubUsername": "arjunkh2004",
+    "storeName": "Revathy Medicals",
+    "storeType": "Medical Store",
+    "storeDescription": "Revathy Medicals is your dedicated partner in health. Committed to your well-being, we provide a curated selection of quality medications, first aid supplies, and health products. Our expert team is here to offer personalized service and guidance, ensuring you make informed choices for your health. Visit us online or in-store for a convenient, one-stop healthcare solution. ",
+    "githubLink": "https://github.com/ArjunKH2004/Med",
+    "hostedLink": "https://arjunkh2004.github.io/Med/",
+    "storeImage": "/images/rev_med.jpeg"
   }
+    "name": "JIBIN N",
+    "githubUsername": "jibinn@mulearn",
+    "storeName": "Zeka Events- the Event Management Team",
+    "storeType": "Event Management",
+    "storeDescription": "Zeka Events specializes in meticulously organizing corporate events and weddings, blending experience with a keen eye for detail. Embracing technological advancements, they offer a myriad of options to elevate your events, ensuring each occasion is both iconic and elegant.",
+    "hostedLink": "https://jibinntcr.github.io/bring-every-business-online/",
+    "githubLink": "https://github.com/jibinntcr/bring-every-business-online",
+    "storeImage": "bring-every-business-online/assets/img"
+  }
+  
 ]
