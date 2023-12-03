@@ -378,5 +378,15 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+  },
+  {
+    "name": "Alvin Dennis",
+    "githubUsername": "alvin-dennis",
+    "storeName": "Central Hotel",
+    "storeType": "Restaurant",
+    "storeDescription": "Welcome to the Central Hotel Restaurant, where culinary excellence meets warm hospitality. Immerse yourself in a dining experience curated to delight your senses, with a menu featuring a fusion of flavors crafted from the finest ingredients. Our inviting ambiance ensures a memorable meal, whether you're here for a casual brunch or a special evening celebration.",
+    "githubLink": "https://github.com/alvin-dennis/Central-Hotel",
+    "hostedLink": "https://alvin-dennis.github.io/Central-Hotel/",
+    "storeImage": "/images/Central_Hotel.jpg"
   }
 ]
