@@ -368,5 +368,15 @@
         "githubLink": "https://github.com/chriz-ty/Bring-every-business-online/tree/main/CupcakeSiblings",
         "hostedLink": "https://chriz-ty.github.io/Bring-every-business-online/CupcakeSiblings/index.html",
         "storeImage": "/images/kada.jpg"
-    }
+    },
+    {
+        "name": "Bahul V Gopal",
+        "githubUsername": "Bahulvgopal",
+        "storeName": "Garden grille",
+        "storeType": "Restaurant",
+        "storeDescription": "As one of the best hotels in the city, we are close to everything from the airport to tourist attractions and the business district. You'll find modern rooms with numerous amenities along with an outdoor pool and 24-hour fitness center. On-site dining and quick snacks are available. The hotel has 4,800 sq. ft. of flexible space, ideal for your next event",
+        "githubLink": "https://github.com/Bahulvgopal/Restaurant",
+        "hostedLink": "https://restaurant-bring-business-online.vercel.app/index.html",
+        "storeImage": "/images/Garden.jpg"
+     }
 ]
