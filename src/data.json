@@ -379,4 +379,14 @@
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
   }
+   {
+    "name": "Renjith R",
+    "githubUsername": "renjith-r-23",
+    "storeName": "Renjith Nooranad Art Store",
+    "storeType": "Art Store",
+    "storeDescription": " Renjith Nooranad Art Store: Home to exquisite pencil drawings and captivating art pieces. Explore a curated collection showcasing the beauty of pencil artistry alongside diverse artistic creations. Immerse yourself in a world of intricate lines and vivid expressions at our gallery.",
+    "githubLink": "https://github.com/renjith-r-23/Renjith_Nooranad_Art_Shop",
+    "hostedLink": "https://renjith-nooranad-art-shop.vercel.app/",
+    "storeImage": "/images/Renjithnooranadartstore.jpg"
+  }
 ]
