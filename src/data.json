@@ -378,5 +378,15 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+  },
+  {
+    "name": "Amaljith S",
+    "githubUsername": "AmaljithAchu",
+    "storeName": "DAHAB HYPERMARKET",
+    "storeType": "HYPERMARKET",
+    "storeDescription": "Welcome to Dahab Hypermarket, where freshness meets variety! Explore a world of vibrant colors and crisp textures in our vegetable section. From farm-fresh greens to exotic delights, Dahab Hypermarket is your one-stop destination for premium quality vegetables. Immerse yourself in a shopping experience that combines the charm of a local market with the convenience of a hypermarket. Discover the finest produce, carefully curated to inspire your culinary adventures. At Dahab Hypermarket, we take pride in bringing the farm to your table, ensuring a delightful and wholesome shopping experience for every customer.",
+    "hostedLink": "https://github.com/AmaljithAchu/my_store",
+    "githubLink": "https://my-store-market.netlify.app/",
+    "storeImage": "/images/supermarket-min.jpg"
   }
 ]
