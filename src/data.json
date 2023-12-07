@@ -298,5 +298,15 @@
     "githubLink": "https://github.com/viraka/clinic/tree/testserver",
     "hostedLink": "https://kammathdental.com",
     "storeImage": "/images/clinic.jpg"
+  },
+  {
+    "name": "Avanthika S",
+    "githubUsername": "avanthika72",
+    "storeName": "ZION Coconut Oil",
+    "storeType": "Coconut Products",
+    "storeDescription": "ZION Coconut Oil sells the best quality coconut products at reasonable price.",
+    "githubLink": "https://github.com/avanthika72/BringEveryBusinessOnline",
+    "hostedLink": "https://avanthika72.github.io/BringEveryBusinessOnline/",
+    "storeImage": "/images/zionoil.jpeg"
   }
 ]
