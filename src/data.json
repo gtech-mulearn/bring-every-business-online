@@ -378,5 +378,18 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+  },
+
+
+ {
+    "name": "Adarsh Dev MR", 
+    "githubUsername": "AdarshDev9349",
+    "storeName": "PR Fast Food", 
+    "storeType": "Restaurant", 
+    "storeDescription": "My Favourite food spot...!visit once and it will be your favourite too..", 
+    "githubLink": "https://github.com/AdarshDev9349/Bring_it_online_lf.git", 
+    "hostedLink": "https://adarshdev9349.github.io/Bring_it_online_lf/", 
+    "storeImage": "/images/prfood.jpg" 
   }
 ]
+
