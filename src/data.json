@@ -230,6 +230,15 @@
     "storeImage": "/images/pulp_hub.jpg"
   },
   {
+    "name": "Navaneeth Krishna",
+    "githubUsername": "navaneethkrishna11",
+    "storeName": "Pioneer Agencies",
+    "storeType": "water purifiers shop",
+    "storeDescription": "Purity is what you deserve. We value that most.",
+    "hostedLink": "https://navaneethkrishna11.github.io/Pioneer_Agencies01/",
+    "githubLink": "https://navaneethkrishna11.github.io/Pioneer_Agencies01",
+    "storeImage": "/images/pioneer.jpg"
+  },{
     "name": "Adithya Rajesh",
     "githubUsername": "AdithyaRajesh10",
     "storeName": "SR Electricals",
@@ -378,5 +387,6 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+
   }
 ]
