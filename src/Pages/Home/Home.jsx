@@ -9,7 +9,7 @@ const Home = () => {
       {/* <Navbar /> */}
       <nav>
         <a href="http://mulearn.org">
-          <img src="/assets/µLearn.png" alt="" class={styles.mulearn_img} />
+          <img src="/assets/μlearn-new-logo.svg" alt="" class={styles.mulearn_img} />
         </a>
 
         <a
@@ -244,7 +244,7 @@ const Home = () => {
           <div className={styles.ffv_cards_container}>
             <div className={styles.ffv_cards}>
               {data &&
-                data.map((store, key) => (
+                data.reverse().map((store, key) => (
                   <div className={styles.ffv_card}>
                     <div className={styles.header}>
                       <img
