@@ -218,5 +218,15 @@
     "hostedLink": "https://vishakh-abhayan.github.io/Dev_task/",
     "githubLink": "https://github.com/vishakh-abhayan/Dev_task",
     "storeImage": "/images/pulp_hub.jpg"
+  },
+  {
+    "name": "Navaneeth Krishna",
+    "githubUsername": "navaneethkrishna11",
+    "storeName": "Pioneer Agencies",
+    "storeType": "water purifiers shop",
+    "storeDescription": "Purity is what you deserve. We value that most.",
+    "hostedLink": "https://navaneethkrishna11.github.io/Pioneer_Agencies01/",
+    "githubLink": "https://navaneethkrishna11.github.io/Pioneer_Agencies01",
+    "storeImage": "/images/"
   }
 ]
