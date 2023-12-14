@@ -378,5 +378,15 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+  }, 
+   {
+    "name": "Soumya Varghese",
+    "githubUsername": "soumyavarghese03",
+    "storeName": "Fruitify",
+    "storeType": "Super Market",
+    "storeDescription": "Fruitify is a vibrant haven of fresh, succulent fruits and wholesome delights. Discover nature's sweetness in every bite. Health and flavor unite in a colorful array.",
+    "githubLink": "https://github.com/soumyavarghese03/Learningfest/tree/main/Business",
+    "hostedLink": "https://soumyavarghese03.github.io/Learningfest/Business/index.html",
+    "storeImage": "/images/fruitify.jpg"
   }
 ]
