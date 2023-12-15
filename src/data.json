@@ -378,5 +378,15 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+  },
+  {
+    "name": "Gopika M",
+    "githubUsername": "Gopikam2004",
+    "storeName": "Couture Corner",
+    "storeType": "Fashion Store",
+    "storeDescription": "Discover the latest in fashion-forward apparel, from casual chic to sophisticated glamour. Immerse yourself in a carefully curated collection that transcends seasons, offering timeless classics and cutting-edge designs.",
+    "githubLink": "https://github.com/Gopikam2004/Learningfest/tree/main/Onlinebusiness",
+    "hostedLink": "https://gopikam2004.github.io/Learningfest/Onlinebusiness/fashion.html",
+    "storeImage": "/images/Couture Corner.jpeg"
   }
 ]
