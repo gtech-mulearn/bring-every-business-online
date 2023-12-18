@@ -378,5 +378,15 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+  },
+  {
+    "name": "Tini Treesa Joseph",
+    "githubUsername": "Tinitreesajoseph",
+    "storeName": "Lavesta Pink Cafe",
+    "storeType": "Cafe",
+    "storeDescription": "Located in Moonalungal, Lavesta Pink cafe is a stunning spot in Calicut known for its blend of pink hues and chic decor.",
+    "githubLink": "https://github.com/Tinitreesajoseph/BUSINESS-WEBSITE/tree/main/BUSINESS%20WEBSITE",
+    "hostedLink": "https://tinitreesajoseph.github.io/BUSINESS-WEBSITE/BUSINESS%20WEBSITE/index.html",
+    "storeImage": "/images/lavesta.jpeg"
   }
 ]
