@@ -378,5 +378,15 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+  },
+  {
+    "name": "Safad T M",
+    "githubUsername": "safadtm",
+    "storeName": "Mammoos Candy Shop",
+    "storeType": "General Store",
+    "storeDescription": "Since 2004, we've been the neighborhood's sweet haven! Explore our vibrant collection of nostalgic candies, each piece a treasure trove of flavors and childhood delight. Step in for a taste of joy and leave with a pocketful of memories. Indulge in sweetness at Mammoos Candy!",
+    "githubLink": "https://github.com/safadtm/ms-shop",
+    "hostedLink": "https://safadtm.github.io/ms-shop/",
+    "storeImage": "/images/mammoos-candy.jpg"
   }
 ]
