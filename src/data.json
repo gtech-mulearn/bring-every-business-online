@@ -378,5 +378,15 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
-  }
+  },
+    {
+    "name": "Nandana Venugopal",
+    "githubUsername": "Nandanavenugopal373",
+    "storeName": "Eight the design space by Amrutha Hari",
+    "storeType": "Fashion Boutique",
+    "storeDescription": "Eight the design space is a curated space that offers a unique and personalized shopping experience for individuals seeking style, quality, and exclusivity.  ",
+    "githubLink": "https://github.com/Nandanavenugopal373/Business_website",
+    "hostedLink": "https://nandanavenugopal373.github.io/Business_website/Business_Website/index.html",
+    "storeImage": "/images/shop.jpg"
+  },
 ]
