@@ -378,5 +378,15 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+  },
+   {
+    "name": "Rose George",
+    "githubUsername": "Rose-George",
+    "storeName": "Travel",
+    "storeType": "Travel Agency",
+    "storeDescription": "Embark on a journey of a lifetime and explore the world's most breathtaking destinations with our expert travel advice. From exotic beaches to cultural wonders, we've got you covered with our comprehensive travel guides and insider tips. ",
+    "githubLink": "https://github.com/Ros-George/Website     ",
+    "hostedLink": "https://ros-george.github.io/Website/index.html",
+    "storeImage": "/images/bg2.jpeg"
   }
 ]
