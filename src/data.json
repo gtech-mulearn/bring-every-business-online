@@ -378,5 +378,15 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+  },
+  {
+     "name": "Sagar Renjith",
+    "githubUsername": "SagarR05",
+    "storeName": "Kalakkattu Stores",
+    "storeType": "General Stores",
+    "storeDescription": "Kalakkattu Stores is a shop located in Malamekkara, Peringanadu.The store sells products ranging from snacks to groceries.",
+    "hostedLink": "https://sagarr05.github.io/LearningFest/Shopproject/Shop.html",
+    "githubLink": "https://github.com/SagarR05/LearningFest.git",
+    "storeImage": "/images/Kalshop.jpg"
   }
 ]
