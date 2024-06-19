@@ -378,5 +378,15 @@
     "githubLink": "https://github.com/ArjunKH2004/Med",
     "hostedLink": "https://arjunkh2004.github.io/Med/",
     "storeImage": "/images/rev_med.jpeg"
+  },
+    {
+    "name": "Amal C P",
+    "githubUsername": "amalcpaulson",
+    "storeName": "Saras Techno",
+    "storeType": "Mechinaries Store",
+    "storeDescription": "Saras Techo is used to sell machinaries in the industries ",
+    "githubLink": "https://github.com/amalcpaulson/SarasTechno",
+    "hostedLink": "https://saras-techno.vercel.app/",
+    "storeImage": "/images/sarahs.png"
   }
 ]
