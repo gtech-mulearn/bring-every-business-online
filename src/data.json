@@ -389,4 +389,14 @@
     "hostedLink": "https://saras-techno.vercel.app/",
     "storeImage": "/images/sarahs.png"
   }
+   {
+    "name": "DEEPNA MARIA JIMSON",
+    "githubUsername": "Deepnamj",
+    "storeName": "DMJ'S restaurant",
+    "storeType": "Restaurant",
+    "storeDescription": "Savor the Moment, Delight in Every Bite at DMJ's Restaurant ",
+    "githubLink": "https://github.com/Deepnamj/DMJ-S-RESTAURANT    ",
+    "hostedLink": ":https://deepnamj.github.io/DMJ-S-RESTAURANT/aws/index.html ",
+    "storeImage": "/images/restaurant.jpeg"
+  }
 ]
