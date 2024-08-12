@@ -389,4 +389,14 @@
     "hostedLink": "https://saras-techno.vercel.app/",
     "storeImage": "/images/sarahs.png"
   }
+  {
+    "name": "Darshan Kumar",
+    "githubUsername": "darshankumardk2002",
+    "storeName": "Asha Medicals",
+    "storeType": "Medicals Store",
+    "storeDescription": "Asha Medicals, established in 2015, offers a wide range of medicines, first aid kits, and healthcare products at Attakulangara.",
+    "githubLink": "https://github.com/darshankumardk2002/Project-Awesome",
+    "hostedLink": "https://darshankumardk2002.github.io/Project-Awesome/",
+    "storeImage": "/images/asha.jpg"
+  }
 ]
