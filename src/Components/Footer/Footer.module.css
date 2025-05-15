@@ -48,9 +48,9 @@ a:hover{
 
 .line {
   margin-top: 2rem;
-  background-color: rgb(97, 97, 97);
+  background-color: rgb(255, 255, 255);
   width: 100%;
-  height: 2px;
+  height: 0.5px;
 }
 
 a {
