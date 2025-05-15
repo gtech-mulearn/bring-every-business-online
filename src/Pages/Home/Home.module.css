@@ -1,36 +1,95 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --heading-color: #1f172e;
+  --cardtext-color: #1f172e;
+  --card-color:#f7f7f7;
+}
+
+[data-theme='dark'] {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+  --heading-color: #f9f9f9;
+  --cardtext-color: #f9f9f9;
+  --card-color:#272727;
+}
+
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
 * {
   padding: 0;
   margin: 0;
 }
 
 nav {
-  margin: 2rem;
+  
+  margin: 2rem 1rem;
+  padding: 0 2rem;
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
+  align-items: center;
 }
-
 @media only screen and (min-width: 1024px) {
   nav {
     max-width: 1300px;
     margin: auto;
+    margin: 2rem 4rem;
+  }
+}
+
+@media only screen and (min-width: 1300px) {
+  nav {
+    max-width: auto;
+    margin:auto;
     margin-top: 2rem;
   }
 }
 
 .joindiscord {
-  background-color: #f68128;
+  background-color:#456ff6;
   color: white;
   padding: 0.75rem 1.25rem;
-  border-radius: 5px;
+  border-radius: 1.5rem;
   border: none;
+  height:2.7rem;
+  margin-top:-20px;
 }
 
 .mulearn_img {
-  width: 6rem;
+  width: 10rem;
   object-fit: contain;
+  margin-top:-20px;
 }
 
+@media (max-width:1023px) {
+   
+  nav {
+    margin-top:2rem;
+    padding: 0 0.5rem;
+  }
+
+  .joindiscord{
+    height:2rem;
+    font-size:0.5rem;
+    padding: 0.75rem 1.25rem;
+  }
+  .mulearn_img {
+    width:6rem;
+  }
+}
+
+.button_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  column-gap:2rem;
+  flex-wrap: wrap;
+}
 /* First View Styles */
 
 .first_view {
@@ -43,20 +102,20 @@ nav {
 }
 
 .quote {
-  margin-top: 0.15rem;
-  font-size: 1.25rem;
+  margin-top: 1rem;
+  font-size: 1rem;
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   margin-bottom: 1rem;
 }
 
 .start_contributing {
-  background-color: #f68128;
+  background-color: #456ff6;
   color: white;
-  margin-top: 1rem;
+  margin-top: 2rem;
   font-family: "Poppins", sans-serif;
   padding: 0.75rem 1.25rem;
-  border-radius: 5px;
+  border-radius: 1.5rem;
   border: none;
   cursor: pointer;
 }
@@ -65,6 +124,7 @@ nav {
   font-family: "Raleway", sans-serif;
   font-size: 2.5rem;
   font-weight: 600;
+  
 }
 
 .event_partners_heading {
@@ -89,11 +149,12 @@ nav {
 }
 
 span {
-  color: #f68128;
+  color: #456ff6;
 }
 
 .fv_tagline {
   font-family: "Poppins", sans-serif;
+  font-weight: 300;
 }
 
 .fv_image {
@@ -155,7 +216,7 @@ span {
 .sv_heading {
   font-family: "Raleway", sans-serif;
   font-size: 2.45rem;
-  color: #1f172e;
+  color: var(--heading-color);
   font-weight: 600;
 }
 
@@ -168,7 +229,10 @@ span {
 
 @media only screen and (min-width: 1000px) {
   .second_view_container {
+    margin: auto;
     margin-top: 6rem;
+    margin-left:4rem;
+    margin-right:4rem;
   }
 
   .sv_texts {
@@ -206,7 +270,7 @@ span {
 
 .steps_view_container {
   margin: 2rem;
-  margin-top: 4rem;
+  
 }
 
 .steps_view {
@@ -218,7 +282,7 @@ span {
 .stv_heading {
   font-family: "Raleway", sans-serif;
   font-size: 2.45rem;
-  color: #1f172e;
+  color: var(--heading-color);
   font-weight: 600;
 }
 
@@ -229,7 +293,7 @@ span {
 }
 
 .step_heading {
-  color: #404040;
+  color: var(--heading-color);
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 1.25rem;
@@ -238,6 +302,7 @@ span {
 .step_text {
   font-family: "Poppins", sans-serif;
   margin-top: 0.25rem;
+  color: var(--cardtext-color);
 }
 
 .link {
@@ -247,18 +312,17 @@ span {
 
 .step {
   margin: 1rem 0rem;
-  box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
-  -webkit-box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
-  -moz-box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
+  background-color: #f7f7f7;
   padding: 30px 25px;
-  border-radius: 10px;
+  border-radius: 0px;
+  background-color: var(--card-color);
 }
 
 @media only screen and (min-width: 1024px) {
   .steps_view_container {
     max-width: 1300px;
-    margin: auto;
-    margin-top: 6rem;
+    margin: 2rem;
+    
   }
 
   .stv_tagline {
@@ -282,6 +346,7 @@ span {
     margin: 1.5rem;
     margin-right: 3rem;
     margin-left: 0;
+    background-color: var(--card-color);
   }
 }
 
@@ -293,6 +358,13 @@ span {
   .sv_point {
     width: 23rem;
   }
+  .steps_view_container {
+    
+    margin: auto;
+    margin-top:6rem;
+    
+  }
+
 }
 
 /* Third View Styles */
@@ -312,7 +384,7 @@ span {
 .tvheader {
   font-family: "Noto Sans", sans-serif;
   font-size: 2.45rem;
-  color: #1f172e;
+  color: var(--heading-color);
   font-weight: 600;
 }
 
@@ -340,6 +412,8 @@ span {
     margin: auto;
     margin-top: 3rem;
     margin-bottom: 3rem;
+    margin-left:2rem;
+    margin-right: 2rem;
   }
 
   .listitem {
@@ -380,9 +454,12 @@ span {
   .third_view {
     margin: 0;
   }
+  .third_view_container {
+    margin:auto;
+  }
 }
 
-/* Foruth View Styles */
+/* Fourth View Styles */
 
 .fourth_view_container {
   margin: 2rem;
@@ -398,7 +475,7 @@ span {
 .frv_heading {
   font-family: "Raleway", sans-serif;
   font-size: 2.45rem;
-  color: #1f172e;
+  color: var(--heading-color);
   font-weight: 600;
 }
 
@@ -418,6 +495,7 @@ span {
   font-family: "Raleway", sans-serif;
   font-size: 1.25rem;
   font-weight: 600;
+  color: var(--heading-color);
 }
 
 .svp_text {
@@ -440,6 +518,8 @@ span {
     max-width: 1300px;
     margin: auto;
     margin-top: 6rem;
+    margin-left:2rem;
+    margin-right:2rem;
   }
 
   .frv_text {
@@ -457,6 +537,7 @@ span {
     flex-direction: row;
     margin: auto;
     margin-top: 3rem;
+    width:90%;
   }
 
   .sv_point {
@@ -480,6 +561,13 @@ span {
   .fourth_view {
     margin: 0rem;
   }
+  .fourth_view_container {
+    margin: auto;
+    margin-top: 6rem;
+  }
+  .sv_points{
+    width:100%;
+  }
 }
 
 /* Fifth View */
@@ -498,7 +586,7 @@ span {
 .ffv_heading {
   font-family: "Raleway", sans-serif;
   font-size: 2.45rem;
-  color: #1f172e;
+  color: var(--heading-color);
   font-weight: 600;
 }
 
@@ -514,6 +602,8 @@ span {
     max-width: 1300px;
     margin: auto;
     margin-top: 6rem;
+    margin-left:2rem;
+    margin-right:2rem;
   }
 
   .ffv_text {
@@ -542,6 +632,10 @@ span {
   .fifth_view {
     margin: 0rem;
   }
+  .fifth_view_container {
+    margin: auto;
+    margin-top: 6rem;
+  }
 }
 
 .ffv_cards_container {
@@ -563,12 +657,11 @@ span {
 }
 
 .ffv_card {
-  box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
-  -webkit-box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
-  -moz-box-shadow: 1px 1px 45px -5px rgba(0, 0, 0, 0.08);
+  background-color: var(--card-color);
   padding: 30px 25px;
   border-radius: 10px;
-  max-width: 20rem;
+  max-width: 17rem;
+  max-height: 50rem;
 
   display: flex;
   flex-direction: column;
@@ -586,25 +679,27 @@ span {
 .ffvc_heading {
   font-family: "Raleway", sans-serif;
   font-size: 1.75rem;
-  color: #1f172e;
+  color: var(--heading-color);
   font-weight: 600;
   margin-top: 1rem;
 }
 
 .ffvc_description {
   font-family: "Poppins", sans-serif;
-  font-size: 1rem;
+  font-size: 0.75rem;
   margin-top: 1rem;
+  color: var(--cardtext-color)
 }
 
 .ffvc_builtby {
   font-family: "Poppins", sans-serif;
   font-size: 0.9rem;
   margin-top: 1rem;
+  color: var(--cardtext-color)
 }
 
 .ffvc_button {
-  background-color: #f68128;
+  background-color:#456ff6;
   color: white;
   margin-top: 1rem;
   margin-right: 0.5rem;
@@ -614,3 +709,4 @@ span {
   font-family: "Poppins", sans-serif;
   cursor: pointer;
 }
+

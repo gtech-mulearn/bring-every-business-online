@@ -2,24 +2,20 @@ import React from "react";
 import Footer from "../../Components/Footer/Footer";
 import styles from "./Home.module.css";
 import data from "../../data.json";
+import { useTheme } from '../../context/ThemeContext';
+
 
 const Home = () => {
+  const { theme, toggleTheme } = useTheme();
   return (
     <>
       {/* <Navbar /> */}
       <nav>
         <a href="http://mulearn.org">
-          <img src="/assets/μlearn-new-logo.svg" alt="" class={styles.mulearn_img} />
+          <img src="/assets/mulearn.png" alt="" class={styles.mulearn_img} />
         </a>
-
-        <a
-          href="https://app.mulearn.org/register"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          {" "}
-          <button class={styles.joindiscord}>Join µLearn</button>
-        </a>
+        <button class={styles.joindiscord} onClick={toggleTheme}> {theme === "light" ? "Switch to Dark Theme" : "Switch to Light Theme"}</button>
+        
       </nav>
       <div className={styles.main_view_container}>
         <div className={styles.first_view_container}>
@@ -57,14 +53,17 @@ const Home = () => {
                 href="https://github.com/gtech-mulearn/bring-every-business-online"
                 target="_blank"
                 rel="noopener noreferrer"
-              >
+              > 
+              <div className={styles.button_container}> 
                 <button class={styles.start_contributing}>
                   Start Contributing
                 </button>
+                <button class={styles.start_contributing} > Join µLearn</button>
+                </div>
               </a>
             </div>
           </div>
-          <img src="/assets/fvimg1.jpg" alt="" className={styles.fv_image} />
+          <img src="/assets/fvimg2.jpg" alt="" className={styles.fv_image} />
         </div>
 
         <div className={styles.second_view_container}>
