@@ -22,7 +22,7 @@ a {
 }
 
 a:hover{
-  color: #f6832a;
+  color: #456FF6;
 }
 
 .mulearn {
@@ -43,7 +43,7 @@ a:hover{
 }
 
 .link:hover {
-  color: #f1954a;
+  color: #456FF6;
 }
 
 .line {
@@ -66,7 +66,7 @@ a {
 }
 
 .mail {
-  color: #f1954a;
+  color: #456FF6;
 }
 
 .social {
@@ -149,13 +149,13 @@ a {
   border: none;
   font-size: 0.8rem;
   color: white;
-  background-color: #f6832a;
+  background-color: #456FF6;
   padding: 0.5rem 1.75rem;
   border-radius: 3px;
 }
 
 .invite_container button:hover {
-  background-color: #fd7915;
+  background-color: #456FF6;
 }
 
 input:focus,
