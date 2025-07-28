@@ -19,7 +19,7 @@ nav {
 }
 
 .joindiscord {
-  background-color: #f68128;
+  background-color: #456ff6;
   color: white;
   padding: 0.75rem 1.25rem;
   border-radius: 5px;
@@ -27,7 +27,7 @@ nav {
 }
 
 .mulearn_img {
-  width: 6rem;
+  width: 8rem;
   object-fit: contain;
 }
 
@@ -51,7 +51,7 @@ nav {
 }
 
 .start_contributing {
-  background-color: #f68128;
+  background-color: #456ff6;
   color: white;
   margin-top: 1rem;
   font-family: "Poppins", sans-serif;
@@ -89,7 +89,7 @@ nav {
 }
 
 span {
-  color: #f68128;
+  color: #456ff6;
 }
 
 .fv_tagline {
@@ -604,7 +604,7 @@ span {
 }
 
 .ffvc_button {
-  background-color: #f68128;
+  background-color: #456ff6;
   color: white;
   margin-top: 1rem;
   margin-right: 0.5rem;
