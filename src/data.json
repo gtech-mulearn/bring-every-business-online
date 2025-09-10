@@ -1,5 +1,15 @@
 [
   {
+  "name": "Sarang k",
+  "githubUsername": "Sarangk2024",
+  "storeName": "The Grand Hotel",
+  "storeType": "Hotel",
+  "storeDescription": "A charming and luxurious hotel offering exceptional comfort and hospitality in the heart of the city.",
+  "githubLink": "https://github.com/Sarangk2024/hotel",
+  "hostedLink": "https://sarangk2024.github.io/hotel/",
+  "storeImage": "/images/grandhotel.jpg"
+},
+  {
     "name": "Amanul Farhan",
     "githubUsername": "AmanulFarhan",
     "storeName": "Blue Sea Aquarium and Pet's Hub",
