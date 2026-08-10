@@ -9,7 +9,7 @@ const Home = () => {
       {/* <Navbar /> */}
       <nav>
         <a href="http://mulearn.org">
-          <img src="/assets/μlearn-new-logo.svg" alt="" class={styles.mulearn_img} />
+          <img src="https://s3.ap-south-1.amazonaws.com/cdn.mulearn/public/assets/%C2%B5Learn.png" alt="" class={styles.mulearn_img} />
         </a>
 
         <a
